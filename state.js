@@ -19,16 +19,20 @@ request(
 
       //Loop through each team selecting its row
       $('#article-body li').each((i, el) => {
-        const county = $(el)
+        const countyCases = $(el)
           //.children('li')
           .eq(0) //select first instance
           .text()
           .replace(/\s\s+/g, '') //trim whitespace
+          .split(':')
+
+        const county = countyCases[0]
+        const cases = countyCases[1]
 
         //Write to Console
-        console.log(`${state}, ${county}`)
+        console.log(`${state}, ${county}, ${cases}`)
         //Write Headers
-        writeStream.write(`${state}, ${county}\n`)
+        writeStream.write(`${state}, ${county}, ${cases}\n`)
       })
     }
   }
