@@ -1,8 +1,21 @@
+#!/usr/bin/env node
 const request = require('request')
 const cheerio = require('cheerio')
 const fs = require('fs')
 
-const writeStream = fs.createWriteStream('covid_state_county.csv') //output file name
+function getDateString() {
+  const date = new Date()
+  const year = date.getFullYear()
+  const month = `${date.getMonth() + 1}`.padStart(2, '0')
+  const day = `${date.getDate()}`.padStart(2, '0')
+  return `${year}${month}${day}`
+}
+
+const theTimestamp = getDateString()
+
+const writeStream = fs.createWriteStream(
+  `covid_state_county_${theTimestamp}_auto.csv`
+) //output file name
 
 const states = [
   'Alabama',
@@ -57,9 +70,9 @@ const states = [
   'Wyoming'
 ]
 
-console.log(`State, County, Cases`)
+console.log(`Date, State, County, Cases`)
 //Write Headers
-writeStream.write(`State, County, Cases\n`)
+writeStream.write(`Date, State, County, Cases\n`)
 
 states.forEach(state => {
   //Make Request of URL
@@ -85,9 +98,11 @@ states.forEach(state => {
 
           if (Number.isInteger(cases)) {
             //Write to Console
-            console.log(`${state}, ${county}, ${cases}`)
+            console.log(`${theTimestamp}, ${state}, ${county}, ${cases}`)
             //Write Headers
-            writeStream.write(`${state}, ${county}, ${cases}\n`)
+            writeStream.write(
+              `${theTimestamp}, ${state}, ${county}, ${cases}\n`
+            )
           }
         })
       }

@@ -1,0 +1,841 @@
+Date,State, County, Cases
+20200329,Massachusetts, Barnstable,100
+20200329,Massachusetts, Berkshire,105
+20200329,Massachusetts, Bristol,129
+20200329,Massachusetts, Dukes and Nantucket,4
+20200329,Massachusetts, Essex,350
+20200329,Massachusetts, Franklin,24
+20200329,Massachusetts, Hampden,90
+20200329,Massachusetts, Hampshire,20
+20200329,Massachusetts, Middlesex,685
+20200329,Massachusetts, Nantucket,0
+20200329,Massachusetts, Norfolk,393
+20200329,Massachusetts, Plymouth,187
+20200329,Massachusetts, Suffolk,631
+20200329,Massachusetts, Worcester,219
+20200329,Massachusetts, Unknown,303
+20200329,Hawaii, O'ahu and other small islands in Honolulu County,77
+20200329,Hawaii, Maui,14
+20200329,Hawaii, Hawai'i,5
+20200329,Hawaii, Kauai,5
+20200329,Hawaii, Unknown or Hawaii residents diagnosed out-of-state,5
+20200329,New Jersey, Bergen,1
+20200329,New Jersey, Essex,826
+20200329,New Jersey, Middlesex,640
+20200329,New Jersey, Monmouth,634
+20200329,New Jersey, Hudson,594
+20200329,New Jersey, Union,519
+20200329,New Jersey, Ocean,484
+20200329,New Jersey, Passaic,484
+20200329,New Jersey, Morris,391
+20200329,New Jersey, Somerset,222
+20200329,New Jersey, Mercer,131
+20200329,New Jersey, Camden,95
+20200329,New Jersey, Burlington,88
+20200329,New Jersey, Sussex,65
+20200329,New Jersey, Hunterdon,52
+20200329,New Jersey, Gloucester,40
+20200329,New Jersey, Warren,38
+20200329,New Jersey, Atlantic,14
+20200329,New Jersey, Cumberland,9
+20200329,New Jersey, Cape May,7
+20200329,New Jersey, Salem,3
+20200329,Minnesota, Anoka,10
+20200329,Minnesota, Beltrami,1
+20200329,Minnesota, Benton,1
+20200329,Minnesota, Big Stone,1
+20200329,Minnesota, Blue Earth,7
+20200329,Minnesota, Carver,8
+20200329,Minnesota, Cass,1
+20200329,Minnesota, Chisago,2
+20200329,Minnesota, Clay,4
+20200329,Minnesota, Dakota,28
+20200329,Minnesota, Dodge,5
+20200329,Minnesota, Faribault,1
+20200329,Minnesota, Fillmore,3
+20200329,Minnesota, Hennepin,141
+20200329,Minnesota, Jackson,1
+20200329,Minnesota, Kandiyohi,1
+20200329,Minnesota, Lac qui Parle,1
+20200329,Minnesota, Le Sueur,10
+20200329,Minnesota, Lincoln,1
+20200329,Minnesota, Mahnomen,1
+20200329,Minnesota, Martin,18
+20200329,Minnesota, Mower,10
+20200329,Minnesota, Nicollet,3
+20200329,Minnesota, Olmsted,34
+20200329,Minnesota, Ramsey,34
+20200329,Minnesota, Renville,1
+20200329,Minnesota, Rie,2
+20200329,Minnesota, Scott,7
+20200329,Minnesota, Sherburne,3
+20200329,Minnesota, Sibley,1
+20200329,Minnesota, St. Louis,5
+20200329,Minnesota, Stearns,5
+20200329,Minnesota, Steele,5
+20200329,Minnesota, Wabasha,4
+20200329,Minnesota, Waseca,3
+20200329,Minnesota, Washington,22
+20200329,Minnesota, Wilkin,1
+20200329,Minnesota, Winona,4
+20200329,Minnesota, Wright,5
+20200329,North Dakota, Burleigh,25
+20200329,North Dakota, Cass,11
+20200329,North Dakota, Dunn,1
+20200329,North Dakota, Foster,1
+20200329,North Dakota, McHenry,1
+20200329,North Dakota, McIntosh,1
+20200329,North Dakota, Morton,11
+20200329,North Dakota, Pierce,2
+20200329,North Dakota, Ramsey,3
+20200329,North Dakota, Start,7
+20200329,North Dakota, Walsh,1
+20200329,North Dakota, Ward,4
+20200329,Colorado, Adams,50
+20200329,Colorado, Arapahoe,119
+20200329,Colorado, Boulder,66
+20200329,Colorado, Broomfield,10
+20200329,Colorado, Chaffee,5
+20200329,Colorado, Clear Creek,3
+20200329,Colorado, Crowley,1
+20200329,Colorado, Delta,1
+20200329,Colorado, Denver,262
+20200329,Colorado, Douglas,67
+20200329,Colorado, Eagle,147
+20200329,Colorado, El Paso,137
+20200329,Colorado, Elbert,3
+20200329,Colorado, Fremont,1
+20200329,Colorado, Garfield,16
+20200329,Colorado, Grand,2
+20200329,Colorado, Gunnison,57
+20200329,Colorado, Hinsdale,1
+20200329,Colorado, Huerfano,1
+20200329,Colorado, Jefferson,131
+20200329,Colorado, Kit Carson,1
+20200329,Colorado, La Plata,5
+20200329,Colorado, Larimer,61
+20200329,Colorado, Logan,2
+20200329,Colorado, Mesa,6
+20200329,Colorado, Montrose,4
+20200329,Colorado, Morgan,3
+20200329,Colorado, Otero,1
+20200329,Colorado, Park,1
+20200329,Colorado, Pitkin,23
+20200329,Colorado, Pueblo,3
+20200329,Colorado, Rio Grande,2
+20200329,Colorado, Routt,9
+20200329,Colorado, San Miguel,1
+20200329,Colorado, Summit,9
+20200329,Colorado, Teller,7
+20200329,Colorado, Washington,1
+20200329,Colorado, Weld,107
+20200329,Colorado, Yuma,2
+20200329,Colorado, Unknown,102
+20200329,Florida, Miami-Dade ,1
+20200329,Florida, Broward,838
+20200329,Florida, Palm Beach,333
+20200329,Florida, Hillsborough,218
+20200329,Florida, Duval,125
+20200329,Florida, Orange ,246
+20200329,Florida, Pinellas,113
+20200329,Florida, Collier,95
+20200329,Florida, Alachua,71
+20200329,Florida, Lee,124
+20200329,Florida, Osceola,83
+20200329,Florida, Sarasota,50
+20200329,Florida, Seminole,76
+20200329,Florida, St. Johns,50
+20200329,Florida, Volusia,47
+20200329,Florida, Manatee,33
+20200329,Florida, Pasco,34
+20200329,Florida, Lake,38
+20200329,Florida, Okaloosa,31
+20200329,Florida, Polk,39
+20200329,Florida, Indian River,17
+20200329,Florida, Clay,30
+20200329,Florida, Escambia,30
+20200329,Florida, Sumter,43
+20200329,Florida, Walton,15
+20200329,Florida, Brevard,28
+20200329,Florida, Citrus,15
+20200329,Florida, Leon,18
+20200329,Florida, St. Lucie,23
+20200329,Florida, Hernando,14
+20200329,Florida, Baker,7
+20200329,Florida, Flagler,13
+20200329,Florida, Highlands,10
+20200329,Florida, Marion,20
+20200329,Florida, Martin,26
+20200329,Florida, Santa Rosa,20
+20200329,Florida, Charlotte,16
+20200329,Florida, Columbia,3
+20200329,Florida, Monroe,22
+20200329,Florida, Putnam,12
+20200329,Florida, Bay,6
+20200329,Florida, Bradford,1
+20200329,Florida, Desoto,7
+20200329,Florida, Jackson,1
+20200329,Florida, Nassau,7
+20200329,Florida, Suwannee,1
+20200329,Florida, Washington,1
+20200329,Florida, Levy,2
+20200329,Florida, Gadsden,1
+20200329,Florida, Hendry,1
+20200329,Illinois, Cook,2
+20200329,Illinois, Lake,241
+20200329,Illinois, DuPage,202
+20200329,Illinois, Will,127
+20200329,Illinois, Kane,90
+20200329,Illinois, McHenry,47
+20200329,Illinois, Kankakee,27
+20200329,Illinois, St. Clair,18
+20200329,Illinois, Champaign,15
+20200329,Illinois, Kendall,11
+20200329,Illinois, Madison,10
+20200329,Illinois, McLean,10
+20200329,Illinois, WInnebago,9
+20200329,Illinois, Sangamon,8
+20200329,Illinois, Unassigned,8
+20200329,Illinois, Peoria,7
+20200329,Illinois, Clinton,5
+20200329,Illinois, DeKalb,4
+20200329,Illinois, Rock Island,4
+20200329,Illinois, LaSalle,3
+20200329,Illinois, Monroe,3
+20200329,Illinois, Morgan,3
+20200329,Illinois, Tazewell,3
+20200329,Illinois, Woodford,3
+20200329,Illinois, Grundy,2
+20200329,Illinois, Henry,2
+20200329,Illinois, Iroquois,2
+20200329,Illinois, Jackson,2
+20200329,Illinois, Livingston,2
+20200329,Illinois, Stephenson,2
+20200329,Illinois, Whiteside,2
+20200329,Illinois, Adams,1
+20200329,Illinois, Bureau,1
+20200329,Illinois, Caroll,1
+20200329,Illinois, Christian,1
+20200329,Illinois, Cumberland,1
+20200329,Illinois, Douglas,1
+20200329,Illinois, Fayette,1
+20200329,Illinois, Franklin,1
+20200329,Illinois, Jo Daviess,1
+20200329,Illinois, Macon,1
+20200329,Illinois, Marshall,1
+20200329,Illinois, Washington,1
+20200329,Illinois, WIlliamson,1
+20200329,Pennsylvania, Adams,7
+20200329,Pennsylvania, Allegheny,133
+20200329,Pennsylvania, Armstrong,1
+20200329,Pennsylvania, Beaver,13
+20200329,Pennsylvania, Berks,36
+20200329,Pennsylvania, Blair,1
+20200329,Pennsylvania, Bradford,2
+20200329,Pennsylvania, Bucks,107
+20200329,Pennsylvania, Butler,19
+20200329,Pennsylvania, Cambria,1
+20200329,Pennsylvania, Carbon,2
+20200329,Pennsylvania, Centre,9
+20200329,Pennsylvania, Chester,84
+20200329,Pennsylvania, Clearfield,2
+20200329,Pennsylvania, Columbia,3
+20200329,Pennsylvania, Cumberland,15
+20200329,Pennsylvania, Dauphin,13
+20200329,Pennsylvania, Delaware,156
+20200329,Pennsylvania, Erie,4
+20200329,Pennsylvania, Fayette,8
+20200329,Pennsylvania, Franklin,5
+20200329,Pennsylvania, Greene,3
+20200329,Pennsylvania, Indiana,1
+20200329,Pennsylvania, Juniata,1
+20200329,Pennsylvania, Lackawanna,28
+20200329,Pennsylvania, Lancaster,21
+20200329,Pennsylvania, Lawrence,1
+20200329,Pennsylvania, Lebanon,4
+20200329,Pennsylvania, Lehigh,63
+20200329,Pennsylvania, Luzerne,36
+20200329,Pennsylvania, Lycoming,1
+20200329,Pennsylvania, Mercer,3
+20200329,Pennsylvania, Monroe,67
+20200329,Pennsylvania, Montgomery,282
+20200329,Pennsylvania, Montour,4
+20200329,Pennsylvania, Northampton,56
+20200329,Pennsylvania, Philadelphia,402
+20200329,Pennsylvania, Pike,15
+20200329,Pennsylvania, Potter,1
+20200329,Pennsylvania, Schuylkill,9
+20200329,Pennsylvania, Somerset,2
+20200329,Pennsylvania, Susquehanna,1
+20200329,Pennsylvania, Warren,1
+20200329,Pennsylvania, Washington,12
+20200329,Pennsylvania, Wayne,6
+20200329,Pennsylvania, Westmoreland,24
+20200329,Pennsylvania, York,21
+20200329,Idaho, Ada County,113
+20200329,Idaho, Blaine County,115
+20200329,Idaho, Teton County,2
+20200329,Idaho, Twins Falls County,3
+20200329,Idaho, Madison County,2
+20200329,Idaho, Kootenai County,13
+20200329,Idaho, Canyon County,40
+20200329,Idaho, Bingham County,1
+20200329,Idaho, Valley County,1
+20200329,Idaho, Cassia County,1
+20200329,Idaho, Bannock County,3
+20200329,Idaho, Idaho County,1
+20200329,Idaho, Nez Perce County,4
+20200329,Idaho, Payette County,1
+20200329,Idaho, Fremont County,1
+20200329,Idaho, Jefferson County,2
+20200329,Idaho, Custer County,1
+20200329,Idaho, Lincoln County,1
+20200329,Idaho, Bonneville County,1
+20200329,Idaho, Gem County,3
+20200329,Idaho, Owyhee County,1
+20200329,Virginia, Accomack,2
+20200329,Virginia, Albemarle,8
+20200329,Virginia, Alexandria,18
+20200329,Virginia, Amelia,1
+20200329,Virginia, Amherst,1
+20200329,Virginia, Arlington,63
+20200329,Virginia, Bedford,2
+20200329,Virginia, Botetourt,1
+20200329,Virginia, Bristol,1
+20200329,Virginia, Charles City,1
+20200329,Virginia, Charlottesville,11
+20200329,Virginia, Chesapeake,5
+20200329,Virginia, Chesterfield,12
+20200329,Virginia, Culpeper,2
+20200329,Virginia, Danville,4
+20200329,Virginia, Fairfax,124
+20200329,Virginia, Fauquier,4
+20200329,Virginia, Fluvanna,3
+20200329,Virginia, Franklin County,1
+20200329,Virginia, Frederick,4
+20200329,Virginia, Fredericksburg,1
+20200329,Virginia, Galax,1
+20200329,Virginia, Gloucester,3
+20200329,Virginia, Goochland,3
+20200329,Virginia, Greene,1
+20200329,Virginia, Halifax,1
+20200329,Virginia, Hampton,5
+20200329,Virginia, Hanover,2
+20200329,Virginia, Harrisonburg,5
+20200329,Virginia, Henrico,28
+20200329,Virginia, Isle of Wight,2
+20200329,Virginia, James City,55
+20200329,Virginia, King George,1
+20200329,Virginia, Lee,2
+20200329,Virginia, Loudoun,43
+20200329,Virginia, Louisa,5
+20200329,Virginia, Lynchburg,2
+20200329,Virginia, Madison,2
+20200329,Virginia, Manassas City,3
+20200329,Virginia, Mathews,1
+20200329,Virginia, Mecklenburg,4
+20200329,Virginia, Nelson,1
+20200329,Virginia, Newport News,12
+20200329,Virginia, Norfolk,8
+20200329,Virginia, Northampton,1
+20200329,Virginia, Nottoway,1
+20200329,Virginia, Orange,1
+20200329,Virginia, Pittsylvania,1
+20200329,Virginia, Poquoson,1
+20200329,Virginia, Portsmouth,3
+20200329,Virginia, Prince Edward,2
+20200329,Virginia, Prince George,2
+20200329,Virginia, Prince William,44
+20200329,Virginia, Radford,1
+20200329,Virginia, Richmond City,17
+20200329,Virginia, Roanoke City,1
+20200329,Virginia, Roanoke County,1
+20200329,Virginia, Rockbridge,1
+20200329,Virginia, Rockingham,4
+20200329,Virginia, Shenandoah,3
+20200329,Virginia, Southampton,1
+20200329,Virginia, Spotsylvania,2
+20200329,Virginia, Stafford,11
+20200329,Virginia, Suffolk,1
+20200329,Virginia, Virginia Beach,29
+20200329,Virginia, Warren,2
+20200329,Virginia, Washington,1
+20200329,Virginia, Williamsburg,5
+20200329,Virginia, York,9
+20200329,Delaware, New Castle,141
+20200329,Delaware, Kent,25
+20200329,Delaware, Sussex,66
+20200329,New Hampshire, Rockingham,67
+20200329,New Hampshire, Hillsborough,31
+20200329,New Hampshire, Grafton,23
+20200329,New Hampshire, Belknap,8
+20200329,New Hampshire, Carroll,7
+20200329,New Hampshire, Merrimack,7
+20200329,New Hampshire, Strafford,7
+20200329,New Hampshire, Cheshire,2
+20200329,New Hampshire, Sullivan,2
+20200329,Nevada, Clark,350
+20200329,Nevada, Washoe,67
+20200329,Nevada, Douglas,3
+20200329,Nevada, Carson City,2
+20200329,Nevada, Elko,2
+20200329,Nevada, Humboldt,1
+20200329,Nevada, Lyon,1
+20200329,Nevada, Nye,1
+20200329,Maine, Androscoggin,6
+20200329,Maine, Cumberland,92
+20200329,Maine, Franklin,1
+20200329,Maine, Kennebec,6
+20200329,Maine, Knox,2
+20200329,Maine, Lincoln,5
+20200329,Maine, Oxford,8
+20200329,Maine, Penobscot,6
+20200329,Maine, Sagadahoc,4
+20200329,Maine, Waldo,2
+20200329,Maine, York,33
+20200329,Maine, Unknown,3
+20200329,Nebraska, Douglas,44
+20200329,Nebraska, Sarpy,10
+20200329,Nebraska, Washington,5
+20200329,Nebraska, Buffalo,4
+20200329,Nebraska, Lancaster,3
+20200329,Nebraska, Lincoln,3
+20200329,Nebraska, Cass,2
+20200329,Nebraska, Knox,2
+20200329,Nebraska, Saunders,2
+20200329,Nebraska, Adams,1
+20200329,Nebraska, Gage,1
+20200329,Nebraska, Kearny,1
+20200329,Nebraska, Madison,1
+20200329,Nebraska, Nemaha,1
+20200329,Georgia, Fulton,407
+20200329,Georgia, Dekalb,272
+20200329,Georgia, Dougherty,239
+20200329,Georgia, Cobb,222
+20200329,Georgia, Gwinnett,143
+20200329,Georgia, Bartow,119
+20200329,Georgia, Carroll ,64
+20200329,Georgia, Clayton,59
+20200329,Georgia, Cherokee,56
+20200329,Georgia, Henry,55
+20200329,Georgia, Lee,43
+20200329,Georgia, Douglas,37
+20200329,Georgia, Clarke,35
+20200329,Georgia, Hall,32
+20200329,Georgia, Floyd,27
+20200329,Georgia, Fayette,26
+20200329,Georgia, Forsyth,25
+20200329,Georgia, Paulding,23
+20200329,Georgia, Coweta,22
+20200329,Georgia, Lowndes,20
+20200329,Georgia, Rockdale,18
+20200329,Georgia, Newton,17
+20200329,Georgia, Early,16
+20200329,Georgia, Chatham,15
+20200329,Georgia, Houston,15
+20200329,Georgia, Mitchell,15
+20200329,Georgia, Sumter ,15
+20200329,Georgia, Gordon,14
+20200329,Georgia, Bibb,13
+20200329,Georgia, Tift,13
+20200329,Georgia, Columbia,12
+20200329,Georgia, Richmond,12
+20200329,Georgia, Spalding,12
+20200329,Georgia, Oconee,11
+20200329,Georgia, Polk,10
+20200329,Georgia, Terrell,10
+20200329,Georgia, Worth,10
+20200329,Georgia, Laurens,9
+20200329,Georgia, Troup,9
+20200329,Georgia, Coffee,8
+20200329,Georgia, Glynn,8
+20200329,Georgia, Muscogee,8
+20200329,Georgia, Whitfield,8
+20200329,Georgia, Barrow ,7
+20200329,Georgia, Bryan,7
+20200329,Georgia, Thomas,7
+20200329,Georgia, Colquitt,6
+20200329,Georgia, Crisp,6
+20200329,Georgia, Peach,6
+20200329,Georgia, Butts,5
+20200329,Georgia, Meriwether,5
+20200329,Georgia, Pickens,5
+20200329,Georgia, Upson,5
+20200329,Georgia, Walton,5
+20200329,Georgia, Ware,5
+20200329,Georgia, Burke,4
+20200329,Georgia, Decatur,4
+20200329,Georgia, Effingham,4
+20200329,Georgia, Lumpkin,4
+20200329,Georgia, Miller,4
+20200329,Georgia, Calhoun,3
+20200329,Georgia, Catoosa,3
+20200329,Georgia, Fannin ,3
+20200329,Georgia, Irwin,3
+20200329,Georgia, Liberty,3
+20200329,Georgia, Lincoln ,3
+20200329,Georgia, Madison,3
+20200329,Georgia, Monroe,3
+20200329,Georgia, Murray,3
+20200329,Georgia, Pulaski ,3
+20200329,Georgia, Randolph,3
+20200329,Georgia, Seminole,3
+20200329,Georgia, Stephens,3
+20200329,Georgia, Baldwin,2
+20200329,Georgia, Ben Hill,2
+20200329,Georgia, Camden,2
+20200329,Georgia, Dawson,2
+20200329,Georgia, Franklin,2
+20200329,Georgia, Haralson,2
+20200329,Georgia, Harris,2
+20200329,Georgia, Jackson,2
+20200329,Georgia, Jasper,2
+20200329,Georgia, Jones,2
+20200329,Georgia, Lamar,2
+20200329,Georgia, Pierce,2
+20200329,Georgia, Pike,2
+20200329,Georgia, Tattnall ,2
+20200329,Georgia, Turner,2
+20200329,Georgia, Twiggs,2
+20200329,Georgia, Washington,2
+20200329,Georgia, Bacon,1
+20200329,Georgia, Baker,1
+20200329,Georgia, Brooks,1
+20200329,Georgia, Bulloch,1
+20200329,Georgia, Candler,1
+20200329,Georgia, Charlton,1
+20200329,Georgia, Chattahoochee,1
+20200329,Georgia, Chattooga,1
+20200329,Georgia, Clinch,1
+20200329,Georgia, Dodge,1
+20200329,Georgia, Greene,1
+20200329,Georgia, Hart,1
+20200329,Georgia, Heard,1
+20200329,Georgia, Jenkins,1
+20200329,Georgia, Long,1
+20200329,Georgia, Macon,1
+20200329,Georgia, Mcduffie,1
+20200329,Georgia, Morgan,1
+20200329,Georgia, Taylor,1
+20200329,Georgia, Toombs,1
+20200329,Georgia, Wheeler,1
+20200329,Georgia, White,1
+20200329,Georgia, Wilkes,1
+20200329,Georgia, Unknown,262
+20200329,Texas, Dallas County,367
+20200329,Texas, Harris County,203
+20200329,Texas, Travis County,137
+20200329,Texas, Bexar County,113
+20200329,Texas, Tarrant County,100
+20200329,Texas, Collin County,88
+20200329,Texas, Fort Bend County,86
+20200329,Texas, Denton County,83
+20200329,Texas, Montgomery County,41
+20200329,Texas, Galveston County,40
+20200329,Texas, Brazoria County,39
+20200329,Texas, McLennan County,33
+20200329,Texas, Brazos County,30
+20200329,Texas, Williamson County,27
+20200329,Texas, Lubbock County,23
+20200329,Texas, El Paso County,21
+20200329,Texas, Smith County,21
+20200329,Texas, Bell County,20
+20200329,Texas, Nueces County,18
+20200329,Texas, Hays County,13
+20200329,Texas, Webb County,13
+20200329,Texas, Wichita County,12
+20200329,Texas, Hidalgo County,11
+20200329,Texas, Cameron County,10
+20200329,Texas, Ellis County,10
+20200329,Texas, Comal County,9
+20200329,Texas, Matagorda County,9
+20200329,Texas, Guadalupe County,8
+20200329,Texas, Jefferson County,8
+20200329,Texas, Castro County,7
+20200329,Texas, Johnson County,6
+20200329,Texas, Midland County,6
+20200329,Texas, Hockley County,5
+20200329,Texas, Gregg County,4
+20200329,Texas, Hardin County,4
+20200329,Texas, Kendall County,4
+20200329,Texas, Brown County,3
+20200329,Texas, De Witt County,3
+20200329,Texas, Medina County,3
+20200329,Texas, Rockwall County,3
+20200329,Texas, Victoria County,3
+20200329,Texas, Wharton County,3
+20200329,Texas, Angelina County,2
+20200329,Texas, Atascosa County,2
+20200329,Texas, Bastrop County,2
+20200329,Texas, Bowie County,2
+20200329,Texas, Calhoun County,2
+20200329,Texas, Chambers County,2
+20200329,Texas, Deaf Smith County,2
+20200329,Texas, Eastland County,2
+20200329,Texas, Grayson County,2
+20200329,Texas, Grimes County,2
+20200329,Texas, Hood County,2
+20200329,Texas, Kaufman County,2
+20200329,Texas, Liberty County,2
+20200329,Texas, Llano County,2
+20200329,Texas, Milam County,2
+20200329,Texas, Parker County,2
+20200329,Texas, Rusk County,2
+20200329,Texas, Starr County,2
+20200329,Texas, Tom Green County,2
+20200329,Texas, Val Verde County,2
+20200329,Texas, Walker County,2
+20200329,Texas, Austin County,1
+20200329,Texas, Blanco County,1
+20200329,Texas, Burnet County,1
+20200329,Texas, Cass County,1
+20200329,Texas, Cherokee County,1
+20200329,Texas, Coryell County,1
+20200329,Texas, Crane County,1
+20200329,Texas, Erath County,1
+20200329,Texas, Falls County,1
+20200329,Texas, Fannin County,1
+20200329,Texas, Fayette County,1
+20200329,Texas, Gaines County,1
+20200329,Texas, Hale County,1
+20200329,Texas, Harrison County,1
+20200329,Texas, Hopkins County,1
+20200329,Texas, Hunt County,1
+20200329,Texas, Jackson County,1
+20200329,Texas, Karnes County,1
+20200329,Texas, Lamar County,1
+20200329,Texas, Lavaca County,1
+20200329,Texas, Limestone County,1
+20200329,Texas, Martin County,1
+20200329,Texas, Maverick County,1
+20200329,Texas, Montague County,1
+20200329,Texas, Morris County,1
+20200329,Texas, Nacogdoches County,1
+20200329,Texas, Navarro County,1
+20200329,Texas, Oldham County,1
+20200329,Texas, Orange County,1
+20200329,Texas, Potter County,1
+20200329,Texas, Robertson County,1
+20200329,Texas, San Patricio County,1
+20200329,Texas, Shelby County,1
+20200329,Texas, Taylor County,1
+20200329,Texas, Terry County,1
+20200329,Texas, Upshur County,1
+20200329,Texas, Uvalde County,1
+20200329,Texas, Van Zandt County,1
+20200329,Texas, Willacy County,1
+20200329,Texas, Wilson County,1
+20200329,Texas, Yoakum County,1
+20200329,Texas, Young County,1
+20200329,Oklahoma, Adair,3
+20200329,Oklahoma, Bryan,1
+20200329,Oklahoma, Caddo,1
+20200329,Oklahoma, Canadian,11
+20200329,Oklahoma, Carter,1
+20200329,Oklahoma, Cherokee,1
+20200329,Oklahoma, Chocotaw,1
+20200329,Oklahoma, Cleveland,39
+20200329,Oklahoma, Comanche,6
+20200329,Oklahoma, Craig,1
+20200329,Oklahoma, Creek,14
+20200329,Oklahoma, Custer,3
+20200329,Oklahoma, Delaware,2
+20200329,Oklahoma, Garvin,2
+20200329,Oklahoma, Grady,2
+20200329,Oklahoma, Jackson,1
+20200329,Oklahoma, Kay,17
+20200329,Oklahoma, Latimer,1
+20200329,Oklahoma, Lincoln,3
+20200329,Oklahoma, Logan,3
+20200329,Oklahoma, Mayes,2
+20200329,Oklahoma, McClain,2
+20200329,Oklahoma, Muskogee,5
+20200329,Oklahoma, Noble,3
+20200329,Oklahoma, Oklahoma,94
+20200329,Oklahoma, Okmulgee,2
+20200329,Oklahoma, Osage,5
+20200329,Oklahoma, Ottawa,1
+20200329,Oklahoma, Pawnee,14
+20200329,Oklahoma, Payne,7
+20200329,Oklahoma, Pittsburgh,2
+20200329,Oklahoma, Pontotoc,2
+20200329,Oklahoma, Pottawatomie,2
+20200329,Oklahoma, Sequoyah,1
+20200329,Oklahoma, Stephens,1
+20200329,Oklahoma, Tulsa,49
+20200329,Oklahoma, Wagoner,8
+20200329,Oklahoma, Washington,9
+20200329,Montana, Gallatin,46
+20200329,Montana, Yellowstone,23
+20200329,Montana, Missoula,9
+20200329,Montana, Silver Bow,8
+20200329,Montana, Flathead,6
+20200329,Montana, Cascade,7
+20200329,Montana, Lewis and Clark,9
+20200329,Montana, Broadwater,2
+20200329,Montana, Toole,5
+20200329,Montana, Madison,3
+20200329,Montana, Jefferson,2
+20200329,Montana, Roosevelt,1
+20200329,Montana, Park,1
+20200329,Montana, Meagher,1
+20200329,Montana, Ravalli,1
+20200329,Montana, Hill,1
+20200329,Montana, Lincoln,3
+20200329,Montana, Lake,1
+20200329,Ohio, Allen,1
+20200329,Ohio, Ashland,1
+20200329,Ohio, Athens,2
+20200329,Ohio, Ashtabula,6
+20200329,Ohio, Belmont,8
+20200329,Ohio, Butler,25
+20200329,Ohio, Carroll,4
+20200329,Ohio, Champaign,2
+20200329,Ohio, Clark,2
+20200329,Ohio, Clermont,8
+20200329,Ohio, Clinton,3
+20200329,Ohio, Columbiana,9
+20200329,Ohio, Coshocton,4
+20200329,Ohio, Crawford,2
+20200329,Ohio, Cuyahoga,370
+20200329,Ohio, Darke,1
+20200329,Ohio, Defiance,5
+20200329,Ohio, Delaware,26
+20200329,Ohio, Erie,5
+20200329,Ohio, Fairfield,14
+20200329,Ohio, Fayette,1
+20200329,Ohio, Franklin,222
+20200329,Ohio, Fulton,2
+20200329,Ohio, Gallia,1
+20200329,Ohio, Geauga,14
+20200329,Ohio, Greene,3
+20200329,Ohio, Hamilton,71
+20200329,Ohio, Hancock,3
+20200329,Ohio, Highland,1
+20200329,Ohio, Huron,3
+20200329,Ohio, Jefferson,5
+20200329,Ohio, Knox,2
+20200329,Ohio, Lake,30
+20200329,Ohio, Lawrence,1
+20200329,Ohio, Licking,14
+20200329,Ohio, Logan,3
+20200329,Ohio, Lorain,65
+20200329,Ohio, Lucas,67
+20200329,Ohio, Madison,4
+20200329,Ohio, Mahoning,80
+20200329,Ohio, Marion,5
+20200329,Ohio, Medina,37
+20200329,Ohio, Mercer,2
+20200329,Ohio, Miami,38
+20200329,Ohio, Montgomery,20
+20200329,Ohio, Muskingum,2
+20200329,Ohio, Ottawa,1
+20200329,Ohio, Pickaway,4
+20200329,Ohio, Pike,1
+20200329,Ohio, Portage,19
+20200329,Ohio, Richland,5
+20200329,Ohio, Sandusky,2
+20200329,Ohio, Seneca,1
+20200329,Ohio, Shelby,3
+20200329,Ohio, Stark,25
+20200329,Ohio, Summit,79
+20200329,Ohio, Trumbull,27
+20200329,Ohio, Tuscarawas,5
+20200329,Ohio, Union,3
+20200329,Ohio, Van Wert,1
+20200329,Ohio, Warren,16
+20200329,Ohio, Washington,2
+20200329,Ohio, Wayne,4
+20200329,Ohio, Wood,10
+20200329,Ohio, Wyandot,1
+20200329,Tennessee, Anderson,5
+20200329,Tennessee, Bedford,1
+20200329,Tennessee, Benton,3
+20200329,Tennessee, Bledsoe,2
+20200329,Tennessee, Blount,9
+20200329,Tennessee, Bradley,5
+20200329,Tennessee, Campbell,4
+20200329,Tennessee, Cannon,3
+20200329,Tennessee, Carroll,4
+20200329,Tennessee, Carter,1
+20200329,Tennessee, Cheatham,7
+20200329,Tennessee, Chester,2
+20200329,Tennessee, Claiborne,2
+20200329,Tennessee, Cocke County,1
+20200329,Tennessee, Cumberland,6
+20200329,Tennessee, Davidson,243
+20200329,Tennessee, Decatur,1
+20200329,Tennessee, Dekalb,3
+20200329,Tennessee, Dickson,11
+20200329,Tennessee, Dyer,3
+20200329,Tennessee, Fayette,4
+20200329,Tennessee, Franklin,3
+20200329,Tennessee, Gibson,2
+20200329,Tennessee, Greene,8
+20200329,Tennessee, Grundy,2
+20200329,Tennessee, Hamblen,2
+20200329,Tennessee, Hamilton,35
+20200329,Tennessee, Hardeman,1
+20200329,Tennessee, Hardin,1
+20200329,Tennessee, Hawkins,2
+20200329,Tennessee, Houston,2
+20200329,Tennessee, Jefferson,5
+20200329,Tennessee, Knox,33
+20200329,Tennessee, Lewis,2
+20200329,Tennessee, Lincoln,1
+20200329,Tennessee, Loudon,6
+20200329,Tennessee, Macon,2
+20200329,Tennessee, Madison,3
+20200329,Tennessee, Marion,4
+20200329,Tennessee, Maury,8
+20200329,Tennessee, McMinn,3
+20200329,Tennessee, Meigs,1
+20200329,Tennessee, Monroe,3
+20200329,Tennessee, Montgomery,11
+20200329,Tennessee, Morgan,1
+20200329,Tennessee, Overton,2
+20200329,Tennessee, Perry,2
+20200329,Tennessee, Putnam,17
+20200329,Tennessee, Roane,1
+20200329,Tennessee, Robertson,23
+20200329,Tennessee, Rutherford,46
+20200329,Tennessee, Scott,2
+20200329,Tennessee, Sevier,6
+20200329,Tennessee, Shelby,269
+20200329,Tennessee, Smith,1
+20200329,Tennessee, Sullivan,6
+20200329,Tennessee, Sumner,82
+20200329,Tennessee, Tipton,11
+20200329,Tennessee, Trousdale,1
+20200329,Tennessee, Unicoi,1
+20200329,Tennessee, Union,1
+20200329,Tennessee, Washington,14
+20200329,Tennessee, Weakly,1
+20200329,Tennessee, White,1
+20200329,Tennessee, Williamson,95
+20200329,Tennessee, Wilson,20
+20200329,Tennessee, Residents of other states or countries,148
+20200329,Tennessee, Unknown,161
+20200329,Oregon, Benton,5
+20200329,Oregon, Clackamas,31
+20200329,Oregon, Clatsop,2
+20200329,Oregon, Columbia,1
+20200329,Oregon, Deschutes,18
+20200329,Oregon, Douglas,4
+20200329,Oregon, Grant,1
+20200329,Oregon, Hood River,1
+20200329,Oregon, Jackson,6
+20200329,Oregon, Josephine,4
+20200329,Oregon, Klamath,2
+20200329,Oregon, Lane,9
+20200329,Oregon, Lincoln,1
+20200329,Oregon, Linn,28
+20200329,Oregon, Marion,83
+20200329,Oregon, Morrow,1
+20200329,Oregon, Multnomah,67
+20200329,Oregon, Polk,10
+20200329,Oregon, Umatilla,3
+20200329,Oregon, Union,1
+20200329,Oregon, Wasco,2
+20200329,Oregon, Washington,122
+20200329,Oregon, Yamhill,11

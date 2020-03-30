@@ -1,0 +1,766 @@
+Date,State, County, Cases
+20200328,Massachusetts, Barnstable,67
+20200328,Massachusetts, Berkshire,73
+20200328,Massachusetts, Bristol,90
+20200328,Massachusetts, Dukes and Nantucket,3
+20200328,Massachusetts, Essex,247
+20200328,Massachusetts, Franklin,16
+20200328,Massachusetts, Hampden,55
+20200328,Massachusetts, Hampshire,17
+20200328,Massachusetts, Middlesex,538
+20200328,Massachusetts, Nantucket,0
+20200328,Massachusetts, Norfolk,292
+20200328,Massachusetts, Plymouth,138
+20200328,Massachusetts, Suffolk,448
+20200328,Massachusetts, Worcester,166
+20200328,Massachusetts, Unknown,267
+20200328,Maine, Androscoggin,6
+20200328,Maine, Cumberland,92
+20200328,Maine, Franklin,1
+20200328,Maine, Kennebec,6
+20200328,Maine, Knox,2
+20200328,Maine, Lincoln,5
+20200328,Maine, Oxford,8
+20200328,Maine, Penobscot,6
+20200328,Maine, Sagadahoc,4
+20200328,Maine, Waldo,2
+20200328,Maine, York,33
+20200328,Maine, Unknown,3
+20200328,North Dakota, Burleigh,25
+20200328,North Dakota, Cass,11
+20200328,North Dakota, Dunn,1
+20200328,North Dakota, Foster,1
+20200328,North Dakota, McHenry,1
+20200328,North Dakota, McIntosh,1
+20200328,North Dakota, Morton,11
+20200328,North Dakota, Pierce,2
+20200328,North Dakota, Ramsey,3
+20200328,North Dakota, Start,7
+20200328,North Dakota, Walsh,1
+20200328,North Dakota, Ward,4
+20200328,Oklahoma, Adair,3
+20200328,Oklahoma, Bryan,1
+20200328,Oklahoma, Caddo,1
+20200328,Oklahoma, Canadian,11
+20200328,Oklahoma, Carter,1
+20200328,Oklahoma, Cherokee,1
+20200328,Oklahoma, Chocotaw,1
+20200328,Oklahoma, Cleveland,39
+20200328,Oklahoma, Comanche,6
+20200328,Oklahoma, Craig,1
+20200328,Oklahoma, Creek,14
+20200328,Oklahoma, Custer,3
+20200328,Oklahoma, Delaware,2
+20200328,Oklahoma, Garvin,2
+20200328,Oklahoma, Grady,2
+20200328,Oklahoma, Jackson,1
+20200328,Oklahoma, Kay,17
+20200328,Oklahoma, Latimer,1
+20200328,Oklahoma, Lincoln,3
+20200328,Oklahoma, Logan,3
+20200328,Oklahoma, Mayes,2
+20200328,Oklahoma, McClain,2
+20200328,Oklahoma, Muskogee,5
+20200328,Oklahoma, Noble,3
+20200328,Oklahoma, Oklahoma,94
+20200328,Oklahoma, Okmulgee,2
+20200328,Oklahoma, Osage,5
+20200328,Oklahoma, Ottawa,1
+20200328,Oklahoma, Pawnee,14
+20200328,Oklahoma, Payne,7
+20200328,Oklahoma, Pittsburgh,2
+20200328,Oklahoma, Pontotoc,2
+20200328,Oklahoma, Pottawatomie,2
+20200328,Oklahoma, Sequoyah,1
+20200328,Oklahoma, Stephens,1
+20200328,Oklahoma, Tulsa,49
+20200328,Oklahoma, Wagoner,8
+20200328,Oklahoma, Washington,9
+20200328,New Hampshire, Rockingham,67
+20200328,New Hampshire, Hillsborough,31
+20200328,New Hampshire, Grafton,23
+20200328,New Hampshire, Belknap,8
+20200328,New Hampshire, Carroll,7
+20200328,New Hampshire, Merrimack,7
+20200328,New Hampshire, Strafford,7
+20200328,New Hampshire, Cheshire,2
+20200328,New Hampshire, Sullivan,2
+20200328,Pennsylvania, Adams,7
+20200328,Pennsylvania, Allegheny,133
+20200328,Pennsylvania, Armstrong,1
+20200328,Pennsylvania, Beaver,13
+20200328,Pennsylvania, Berks,36
+20200328,Pennsylvania, Blair,1
+20200328,Pennsylvania, Bradford,2
+20200328,Pennsylvania, Bucks,107
+20200328,Pennsylvania, Butler,19
+20200328,Pennsylvania, Cambria,1
+20200328,Pennsylvania, Carbon,2
+20200328,Pennsylvania, Centre,9
+20200328,Pennsylvania, Chester,84
+20200328,Pennsylvania, Clearfield,2
+20200328,Pennsylvania, Columbia,3
+20200328,Pennsylvania, Cumberland,15
+20200328,Pennsylvania, Dauphin,13
+20200328,Pennsylvania, Delaware,156
+20200328,Pennsylvania, Erie,4
+20200328,Pennsylvania, Fayette,8
+20200328,Pennsylvania, Franklin,5
+20200328,Pennsylvania, Greene,3
+20200328,Pennsylvania, Indiana,1
+20200328,Pennsylvania, Juniata,1
+20200328,Pennsylvania, Lackawanna,28
+20200328,Pennsylvania, Lancaster,21
+20200328,Pennsylvania, Lawrence,1
+20200328,Pennsylvania, Lebanon,4
+20200328,Pennsylvania, Lehigh,63
+20200328,Pennsylvania, Luzerne,36
+20200328,Pennsylvania, Lycoming,1
+20200328,Pennsylvania, Mercer,3
+20200328,Pennsylvania, Monroe,67
+20200328,Pennsylvania, Montgomery,282
+20200328,Pennsylvania, Montour,4
+20200328,Pennsylvania, Northampton,56
+20200328,Pennsylvania, Philadelphia,402
+20200328,Pennsylvania, Pike,15
+20200328,Pennsylvania, Potter,1
+20200328,Pennsylvania, Schuylkill,9
+20200328,Pennsylvania, Somerset,2
+20200328,Pennsylvania, Susquehanna,1
+20200328,Pennsylvania, Warren,1
+20200328,Pennsylvania, Washington,12
+20200328,Pennsylvania, Wayne,6
+20200328,Pennsylvania, Westmoreland,24
+20200328,Pennsylvania, York,21
+20200328,Texas, Dallas County,367
+20200328,Texas, Harris County,203
+20200328,Texas, Travis County,137
+20200328,Texas, Bexar County,113
+20200328,Texas, Tarrant County,100
+20200328,Texas, Collin County,88
+20200328,Texas, Fort Bend County,86
+20200328,Texas, Denton County,83
+20200328,Texas, Montgomery County,41
+20200328,Texas, Galveston County,40
+20200328,Texas, Brazoria County,39
+20200328,Texas, McLennan County,33
+20200328,Texas, Brazos County,30
+20200328,Texas, Williamson County,27
+20200328,Texas, Lubbock County,23
+20200328,Texas, El Paso County,21
+20200328,Texas, Smith County,21
+20200328,Texas, Bell County,20
+20200328,Texas, Nueces County,18
+20200328,Texas, Hays County,13
+20200328,Texas, Webb County,13
+20200328,Texas, Wichita County,12
+20200328,Texas, Hidalgo County,11
+20200328,Texas, Cameron County,10
+20200328,Texas, Ellis County,10
+20200328,Texas, Comal County,9
+20200328,Texas, Matagorda County,9
+20200328,Texas, Guadalupe County,8
+20200328,Texas, Jefferson County,8
+20200328,Texas, Castro County,7
+20200328,Texas, Johnson County,6
+20200328,Texas, Midland County,6
+20200328,Texas, Hockley County,5
+20200328,Texas, Gregg County,4
+20200328,Texas, Hardin County,4
+20200328,Texas, Kendall County,4
+20200328,Texas, Brown County,3
+20200328,Texas, De Witt County,3
+20200328,Texas, Medina County,3
+20200328,Texas, Rockwall County,3
+20200328,Texas, Victoria County,3
+20200328,Texas, Wharton County,3
+20200328,Texas, Angelina County,2
+20200328,Texas, Atascosa County,2
+20200328,Texas, Bastrop County,2
+20200328,Texas, Bowie County,2
+20200328,Texas, Calhoun County,2
+20200328,Texas, Chambers County,2
+20200328,Texas, Deaf Smith County,2
+20200328,Texas, Eastland County,2
+20200328,Texas, Grayson County,2
+20200328,Texas, Grimes County,2
+20200328,Texas, Hood County,2
+20200328,Texas, Kaufman County,2
+20200328,Texas, Liberty County,2
+20200328,Texas, Llano County,2
+20200328,Texas, Milam County,2
+20200328,Texas, Parker County,2
+20200328,Texas, Rusk County,2
+20200328,Texas, Starr County,2
+20200328,Texas, Tom Green County,2
+20200328,Texas, Val Verde County,2
+20200328,Texas, Walker County,2
+20200328,Texas, Austin County,1
+20200328,Texas, Blanco County,1
+20200328,Texas, Burnet County,1
+20200328,Texas, Cass County,1
+20200328,Texas, Cherokee County,1
+20200328,Texas, Coryell County,1
+20200328,Texas, Crane County,1
+20200328,Texas, Erath County,1
+20200328,Texas, Falls County,1
+20200328,Texas, Fannin County,1
+20200328,Texas, Fayette County,1
+20200328,Texas, Gaines County,1
+20200328,Texas, Hale County,1
+20200328,Texas, Harrison County,1
+20200328,Texas, Hopkins County,1
+20200328,Texas, Hunt County,1
+20200328,Texas, Jackson County,1
+20200328,Texas, Karnes County,1
+20200328,Texas, Lamar County,1
+20200328,Texas, Lavaca County,1
+20200328,Texas, Limestone County,1
+20200328,Texas, Martin County,1
+20200328,Texas, Maverick County,1
+20200328,Texas, Montague County,1
+20200328,Texas, Morris County,1
+20200328,Texas, Nacogdoches County,1
+20200328,Texas, Navarro County,1
+20200328,Texas, Oldham County,1
+20200328,Texas, Orange County,1
+20200328,Texas, Potter County,1
+20200328,Texas, Robertson County,1
+20200328,Texas, San Patricio County,1
+20200328,Texas, Shelby County,1
+20200328,Texas, Taylor County,1
+20200328,Texas, Terry County,1
+20200328,Texas, Upshur County,1
+20200328,Texas, Uvalde County,1
+20200328,Texas, Van Zandt County,1
+20200328,Texas, Willacy County,1
+20200328,Texas, Wilson County,1
+20200328,Texas, Yoakum County,1
+20200328,Texas, Young County,1
+20200328,Minnesota, Anoka,10
+20200328,Minnesota, Beltrami,1
+20200328,Minnesota, Benton,1
+20200328,Minnesota, Big Stone,1
+20200328,Minnesota, Blue Earth,7
+20200328,Minnesota, Carver,8
+20200328,Minnesota, Cass,1
+20200328,Minnesota, Chisago,2
+20200328,Minnesota, Clay,4
+20200328,Minnesota, Dakota,28
+20200328,Minnesota, Dodge,5
+20200328,Minnesota, Faribault,1
+20200328,Minnesota, Fillmore,3
+20200328,Minnesota, Hennepin,141
+20200328,Minnesota, Jackson,1
+20200328,Minnesota, Kandiyohi,1
+20200328,Minnesota, Lac qui Parle,1
+20200328,Minnesota, Le Sueur,10
+20200328,Minnesota, Lincoln,1
+20200328,Minnesota, Mahnomen,1
+20200328,Minnesota, Martin,18
+20200328,Minnesota, Mower,10
+20200328,Minnesota, Nicollet,3
+20200328,Minnesota, Olmsted,34
+20200328,Minnesota, Ramsey,34
+20200328,Minnesota, Renville,1
+20200328,Minnesota, Rie,2
+20200328,Minnesota, Scott,7
+20200328,Minnesota, Sherburne,3
+20200328,Minnesota, Sibley,1
+20200328,Minnesota, St. Louis,5
+20200328,Minnesota, Stearns,5
+20200328,Minnesota, Steele,5
+20200328,Minnesota, Wabasha,4
+20200328,Minnesota, Waseca,3
+20200328,Minnesota, Washington,22
+20200328,Minnesota, Wilkin,1
+20200328,Minnesota, Winona,4
+20200328,Minnesota, Wright,5
+20200328,Nebraska, Douglas,44
+20200328,Nebraska, Sarpy,10
+20200328,Nebraska, Washington,5
+20200328,Nebraska, Buffalo,4
+20200328,Nebraska, Lancaster,3
+20200328,Nebraska, Lincoln,3
+20200328,Nebraska, Cass,2
+20200328,Nebraska, Knox,2
+20200328,Nebraska, Saunders,2
+20200328,Nebraska, Adams,1
+20200328,Nebraska, Gage,1
+20200328,Nebraska, Kearny,1
+20200328,Nebraska, Madison,1
+20200328,Nebraska, Nemaha,1
+20200328,Ohio, Ashland,1
+20200328,Ohio, Athens,1
+20200328,Ohio, Ashtabula,3
+20200328,Ohio, Belmont,3
+20200328,Ohio, Butler,21
+20200328,Ohio, Carroll,3
+20200328,Ohio, Champaign,2
+20200328,Ohio, Clark,2
+20200328,Ohio, Clermont,6
+20200328,Ohio, Clinton,2
+20200328,Ohio, Columbiana,5
+20200328,Ohio, Coshocton,4
+20200328,Ohio, Crawford,1
+20200328,Ohio, Cuyahoga,259
+20200328,Ohio, Darke,1
+20200328,Ohio, Defiance,2
+20200328,Ohio, Delaware,15
+20200328,Ohio, Erie,3
+20200328,Ohio, Fairfield,6
+20200328,Ohio, Fayette,1
+20200328,Ohio, Franklin,108
+20200328,Ohio, Gallia,1
+20200328,Ohio, Geauga,7
+20200328,Ohio, Greene,3
+20200328,Ohio, Hamilton,53
+20200328,Ohio, Hancock,2
+20200328,Ohio, Highland,1
+20200328,Ohio, Huron,3
+20200328,Ohio, Jefferson,1
+20200328,Ohio, Knox,2
+20200328,Ohio, Lake,19
+20200328,Ohio, Lawrence,1
+20200328,Ohio, Licking,5
+20200328,Ohio, Logan,2
+20200328,Ohio, Lorain,44
+20200328,Ohio, Lucas,35
+20200328,Ohio, Madison,3
+20200328,Ohio, Mahoning,51
+20200328,Ohio, Marion,4
+20200328,Ohio, Medina,24
+20200328,Ohio, Mercer,1
+20200328,Ohio, Miami,20
+20200328,Ohio, Montgomery,14
+20200328,Ohio, Muskingum,1
+20200328,Ohio, Pickaway,2
+20200328,Ohio, Portage,8
+20200328,Ohio, Richland,3
+20200328,Ohio, Sandusky,1
+20200328,Ohio, Seneca,1
+20200328,Ohio, Shelby,1
+20200328,Ohio, Stark,16
+20200328,Ohio, Summit,50
+20200328,Ohio, Trumbull,12
+20200328,Ohio, Tuscarawas,3
+20200328,Ohio, Union,3
+20200328,Ohio, Warren,10
+20200328,Ohio, Washington,1
+20200328,Ohio, Wayne,1
+20200328,Ohio, Wood,6
+20200328,Ohio, Wyandot,1
+20200328,Montana, Gallatin,39
+20200328,Montana, Yellowstone,20
+20200328,Montana, Missoula,8
+20200328,Montana, Silver Bow,8
+20200328,Montana, Flathead,6
+20200328,Montana, Cascade,6
+20200328,Montana, Lewis and Clark,8
+20200328,Montana, Broadwater,2
+20200328,Montana, Toole,2
+20200328,Montana, Madison,2
+20200328,Montana, Jefferson,1
+20200328,Montana, Roosevelt,1
+20200328,Montana, Park,1
+20200328,Montana, Meagher,1
+20200328,Montana, Ravalli,1
+20200328,Montana, Hill,1
+20200328,Montana, Lincoln,1
+20200328,Tennessee, Anderson,4
+20200328,Tennessee, Bedford,1
+20200328,Tennessee, Benton,2
+20200328,Tennessee, Blount,6
+20200328,Tennessee, Bradley,6
+20200328,Tennessee, Campbell,4
+20200328,Tennessee, Cannon,2
+20200328,Tennessee, Carroll,4
+20200328,Tennessee, Cheatham,7
+20200328,Tennessee, Chester,2
+20200328,Tennessee, Claiborne,2
+20200328,Tennessee, Cocke County,1
+20200328,Tennessee, Cumberland,6
+20200328,Tennessee, Davidson,216
+20200328,Tennessee, Dekalb,3
+20200328,Tennessee, Dickson,9
+20200328,Tennessee, Dyer,3
+20200328,Tennessee, Fayette,3
+20200328,Tennessee, Franklin,3
+20200328,Tennessee, Gibson,2
+20200328,Tennessee, Greene,8
+20200328,Tennessee, Grundy,1
+20200328,Tennessee, Hamblen,2
+20200328,Tennessee, Hamilton,30
+20200328,Tennessee, Hardin,1
+20200328,Tennessee, Hawkins,2
+20200328,Tennessee, Houston,2
+20200328,Tennessee, Jefferson,5
+20200328,Tennessee, Knox,31
+20200328,Tennessee, Lewis,2
+20200328,Tennessee, Lincoln,1
+20200328,Tennessee, Loudon,6
+20200328,Tennessee, Macon,1
+20200328,Tennessee, Madison,3
+20200328,Tennessee, Marion,2
+20200328,Tennessee, Maury,7
+20200328,Tennessee, McMinn,3
+20200328,Tennessee, Meigs,1
+20200328,Tennessee, Monroe,2
+20200328,Tennessee, Montgomery,9
+20200328,Tennessee, Overton,1
+20200328,Tennessee, Perry,2
+20200328,Tennessee, Putnam,13
+20200328,Tennessee, Roane,1
+20200328,Tennessee, Robertson,22
+20200328,Tennessee, Rutherford,39
+20200328,Tennessee, Scott,2
+20200328,Tennessee, Sevier,6
+20200328,Tennessee, Shelby,201
+20200328,Tennessee, Smith,1
+20200328,Tennessee, Sullivan,6
+20200328,Tennessee, Sumner,58
+20200328,Tennessee, Tipton,10
+20200328,Tennessee, Unicoi,1
+20200328,Tennessee, Washington,10
+20200328,Tennessee, White,1
+20200328,Tennessee, Williamson,91
+20200328,Tennessee, Wilson,20
+20200328,Tennessee, Residents of other states or countries,141
+20200328,Tennessee, Unknown,172
+20200328,Oregon, Benton,5
+20200328,Oregon, Clackamas,31
+20200328,Oregon, Clatsop,2
+20200328,Oregon, Columbia,1
+20200328,Oregon, Deschutes,18
+20200328,Oregon, Douglas,4
+20200328,Oregon, Grant,1
+20200328,Oregon, Hood River,1
+20200328,Oregon, Jackson,6
+20200328,Oregon, Josephine,4
+20200328,Oregon, Klamath,2
+20200328,Oregon, Lane,9
+20200328,Oregon, Lincoln,1
+20200328,Oregon, Linn,28
+20200328,Oregon, Marion,83
+20200328,Oregon, Morrow,1
+20200328,Oregon, Multnomah,67
+20200328,Oregon, Polk,10
+20200328,Oregon, Umatilla,3
+20200328,Oregon, Union,1
+20200328,Oregon, Wasco,2
+20200328,Oregon, Washington,122
+20200328,Oregon, Yamhill,11
+20200328,Nevada, Clark,350
+20200328,Nevada, Washoe,67
+20200328,Nevada, Douglas,3
+20200328,Nevada, Carson City,2
+20200328,Nevada, Elko,2
+20200328,Nevada, Humboldt,1
+20200328,Nevada, Lyon,1
+20200328,Nevada, Nye,1
+20200328,Georgia, Fulton,307
+20200328,Georgia, Dougherty,193
+20200328,Georgia, Dekalb,181
+20200328,Georgia, Cobb,144
+20200328,Georgia, Gwinnett,102
+20200328,Georgia, Bartow,98
+20200328,Georgia, Carroll,55
+20200328,Georgia, Cherokee,46
+20200328,Georgia, Clayton,46
+20200328,Georgia, Henry,40
+20200328,Georgia, Lee,35
+20200328,Georgia, Clarke,32
+20200328,Georgia, Douglas,27
+20200328,Georgia, Hall,24
+20200328,Georgia, Floyd,20
+20200328,Georgia, Coweta,19
+20200328,Georgia, Fayette,19
+20200328,Georgia, Forsyth,19
+20200328,Georgia, Lowndes,16
+20200328,Georgia, Rockdale,16
+20200328,Georgia, Newton,15
+20200328,Georgia, Mitchell,14
+20200328,Georgia, Gordon,12
+20200328,Georgia, Paulding,12
+20200328,Georgia, Richmond,11
+20200328,Georgia, Spalding,11
+20200328,Georgia, Tift,11
+20200328,Georgia, Troup,11
+20200328,Georgia, Bibb,10
+20200328,Georgia, Chatham,10
+20200328,Georgia, Columbia,10
+20200328,Georgia, Early,10
+20200328,Georgia, Oconee,10
+20200328,Georgia, Polk,10
+20200328,Georgia, Sumter ,10
+20200328,Georgia, Houston,9
+20200328,Georgia, Muscogee,8
+20200328,Georgia, Laurens,7
+20200328,Georgia, Worth,7
+20200328,Georgia, Barrow,6
+20200328,Georgia, Glynn,6
+20200328,Georgia, Peach,6
+20200328,Georgia, Terrell,6
+20200328,Georgia, Whitfield,6
+20200328,Georgia, Bryan,4
+20200328,Georgia, Colquitt,4
+20200328,Georgia, Crisp,4
+20200328,Georgia, Effingham,4
+20200328,Georgia, Lumpkin,4
+20200328,Georgia, Pickens,4
+20200328,Georgia, Burke,3
+20200328,Georgia, Butts,3
+20200328,Georgia, Coffee,3
+20200328,Georgia, Irwin,3
+20200328,Georgia, Lamar,3
+20200328,Georgia, Lincoln,3
+20200328,Georgia, Madison,3
+20200328,Georgia, Meriwether,3
+20200328,Georgia, Monroe,3
+20200328,Georgia, Randolph,3
+20200328,Georgia, Thomas,3
+20200328,Georgia, Baldwin,2
+20200328,Georgia, Ben Hill,2
+20200328,Georgia, Calhoun,2
+20200328,Georgia, Camden,2
+20200328,Georgia, Dawson,2
+20200328,Georgia, Decatur,2
+20200328,Georgia, Fannin ,2
+20200328,Georgia, Jackson,2
+20200328,Georgia, Jasper,2
+20200328,Georgia, Jones,2
+20200328,Georgia, Miller,2
+20200328,Georgia, Seminole,2
+20200328,Georgia, Tattnall ,2
+20200328,Georgia, Turner,2
+20200328,Georgia, Twiggs,2
+20200328,Georgia, Upson,2
+20200328,Georgia, Ware,2
+20200328,Georgia, Washington,2
+20200328,Georgia, Baker,1
+20200328,Georgia, Catoosa,1
+20200328,Georgia, Charlton,1
+20200328,Georgia, Chattooga,1
+20200328,Georgia, Clinch,1
+20200328,Georgia, Dodge,1
+20200328,Georgia, Franklin,1
+20200328,Georgia, Greene,1
+20200328,Georgia, Habersham,1
+20200328,Georgia, Haralson,1
+20200328,Georgia, Harris,1
+20200328,Georgia, Heard,1
+20200328,Georgia, Liberty,1
+20200328,Georgia, Long,1
+20200328,Georgia, Macon,1
+20200328,Georgia, Mcduffie,1
+20200328,Georgia, Morgan,1
+20200328,Georgia, Pierce,1
+20200328,Georgia, Pulaski,1
+20200328,Georgia, Stephens,1
+20200328,Georgia, Taylor,1
+20200328,Georgia, Toombs,1
+20200328,Georgia, White,1
+20200328,Georgia, Wilkes,1
+20200328,Georgia, Unknown,217
+20200328,New Jersey, Bergen,1
+20200328,New Jersey, Essex,826
+20200328,New Jersey, Middlesex,640
+20200328,New Jersey, Monmouth,634
+20200328,New Jersey, Hudson,594
+20200328,New Jersey, Union,519
+20200328,New Jersey, Ocean,484
+20200328,New Jersey, Passaic,484
+20200328,New Jersey, Morris,391
+20200328,New Jersey, Somerset,222
+20200328,New Jersey, Mercer,131
+20200328,New Jersey, Camden,95
+20200328,New Jersey, Burlington,88
+20200328,New Jersey, Sussex,65
+20200328,New Jersey, Hunterdon,52
+20200328,New Jersey, Gloucester,40
+20200328,New Jersey, Warren,38
+20200328,New Jersey, Atlantic,14
+20200328,New Jersey, Cumberland,9
+20200328,New Jersey, Cape May,7
+20200328,New Jersey, Salem,3
+20200328,Virginia, Accomack,2
+20200328,Virginia, Albemarle,8
+20200328,Virginia, Alexandria,18
+20200328,Virginia, Amelia,1
+20200328,Virginia, Amherst,1
+20200328,Virginia, Arlington,63
+20200328,Virginia, Bedford,2
+20200328,Virginia, Botetourt,1
+20200328,Virginia, Bristol,1
+20200328,Virginia, Charles City,1
+20200328,Virginia, Charlottesville,11
+20200328,Virginia, Chesapeake,5
+20200328,Virginia, Chesterfield,12
+20200328,Virginia, Culpeper,2
+20200328,Virginia, Danville,4
+20200328,Virginia, Fairfax,124
+20200328,Virginia, Fauquier,4
+20200328,Virginia, Fluvanna,3
+20200328,Virginia, Franklin County,1
+20200328,Virginia, Frederick,4
+20200328,Virginia, Fredericksburg,1
+20200328,Virginia, Galax,1
+20200328,Virginia, Gloucester,3
+20200328,Virginia, Goochland,3
+20200328,Virginia, Greene,1
+20200328,Virginia, Halifax,1
+20200328,Virginia, Hampton,5
+20200328,Virginia, Hanover,2
+20200328,Virginia, Harrisonburg,5
+20200328,Virginia, Henrico,28
+20200328,Virginia, Isle of Wight,2
+20200328,Virginia, James City,55
+20200328,Virginia, King George,1
+20200328,Virginia, Lee,2
+20200328,Virginia, Loudoun,43
+20200328,Virginia, Louisa,5
+20200328,Virginia, Lynchburg,2
+20200328,Virginia, Madison,2
+20200328,Virginia, Manassas City,3
+20200328,Virginia, Mathews,1
+20200328,Virginia, Mecklenburg,4
+20200328,Virginia, Nelson,1
+20200328,Virginia, Newport News,12
+20200328,Virginia, Norfolk,8
+20200328,Virginia, Northampton,1
+20200328,Virginia, Nottoway,1
+20200328,Virginia, Orange,1
+20200328,Virginia, Pittsylvania,1
+20200328,Virginia, Poquoson,1
+20200328,Virginia, Portsmouth,3
+20200328,Virginia, Prince Edward,2
+20200328,Virginia, Prince George,2
+20200328,Virginia, Prince William,44
+20200328,Virginia, Radford,1
+20200328,Virginia, Richmond City,17
+20200328,Virginia, Roanoke City,1
+20200328,Virginia, Roanoke County,1
+20200328,Virginia, Rockbridge,1
+20200328,Virginia, Rockingham,4
+20200328,Virginia, Shenandoah,3
+20200328,Virginia, Southampton,1
+20200328,Virginia, Spotsylvania,2
+20200328,Virginia, Stafford,11
+20200328,Virginia, Suffolk,1
+20200328,Virginia, Virginia Beach,29
+20200328,Virginia, Warren,2
+20200328,Virginia, Washington,1
+20200328,Virginia, Williamsburg,5
+20200328,Virginia, York,9
+20200328,Idaho, Ada County,75
+20200328,Idaho, Blaine County,98
+20200328,Idaho, Teton County,2
+20200328,Idaho, Twins Falls County,2
+20200328,Idaho, Madison County,2
+20200328,Idaho, Kootenai County,11
+20200328,Idaho, Canyon County,23
+20200328,Idaho, Bingham County,1
+20200328,Idaho, Valley County,1
+20200328,Idaho, Cassia County,1
+20200328,Idaho, Bannock County,4
+20200328,Idaho, Idaho County,1
+20200328,Idaho, Nez Perce County,4
+20200328,Idaho, Payette County,1
+20200328,Idaho, Fremont County,1
+20200328,Idaho, Jefferson County,2
+20200328,Idaho, Custer Country,1
+20200328,Hawaii, O'ahu and other small islands in Honolulu County,77
+20200328,Hawaii, Maui,14
+20200328,Hawaii, Hawai'i,5
+20200328,Hawaii, Kauai,5
+20200328,Hawaii, Unknown or Hawaii residents diagnosed out-of-state,5
+20200328,Delaware, New Castle,105
+20200328,Delaware, Kent,21
+20200328,Delaware, Sussex,37
+20200328,Colorado, Adams,50
+20200328,Colorado, Arapahoe,119
+20200328,Colorado, Boulder,66
+20200328,Colorado, Broomfield,10
+20200328,Colorado, Chaffee,5
+20200328,Colorado, Clear Creek,3
+20200328,Colorado, Crowley,1
+20200328,Colorado, Delta,1
+20200328,Colorado, Denver,262
+20200328,Colorado, Douglas,67
+20200328,Colorado, Eagle,147
+20200328,Colorado, El Paso,137
+20200328,Colorado, Elbert,3
+20200328,Colorado, Fremont,1
+20200328,Colorado, Garfield,16
+20200328,Colorado, Grand,2
+20200328,Colorado, Gunnison,57
+20200328,Colorado, Hinsdale,1
+20200328,Colorado, Huerfano,1
+20200328,Colorado, Jefferson,131
+20200328,Colorado, Kit Carson,1
+20200328,Colorado, La Plata,5
+20200328,Colorado, Larimer,61
+20200328,Colorado, Logan,2
+20200328,Colorado, Mesa,6
+20200328,Colorado, Montrose,4
+20200328,Colorado, Morgan,3
+20200328,Colorado, Otero,1
+20200328,Colorado, Park,1
+20200328,Colorado, Pitkin,23
+20200328,Colorado, Pueblo,3
+20200328,Colorado, Rio Grande,2
+20200328,Colorado, Routt,9
+20200328,Colorado, San Miguel,1
+20200328,Colorado, Summit,9
+20200328,Colorado, Teller,7
+20200328,Colorado, Washington,1
+20200328,Colorado, Weld,107
+20200328,Colorado, Yuma,2
+20200328,Colorado, Unknown,102
+20200328,Florida, Miami-Dade ,763
+20200328,Florida, Broward,614
+20200328,Florida, Palm Beach,192
+20200328,Florida, Hillsborough,167
+20200328,Florida, Duval,90
+20200328,Florida, Orange ,155
+20200328,Florida, Pinellas,77
+20200328,Florida, Collier,81
+20200328,Florida, Alachua,57
+20200328,Florida, Lee,75
+20200328,Florida, Osceola,53
+20200328,Florida, Sarasota,40
+20200328,Florida, Seminole,49
+20200328,Florida, St. Johns,36
+20200328,Florida, Volusia,39
+20200328,Florida, Manatee,28
+20200328,Florida, Pasco,23
+20200328,Florida, Lake,29
+20200328,Florida, Okaloosa,22
+20200328,Florida, Polk,26
+20200328,Florida, Indian River,14
+20200328,Florida, Clay,22
+20200328,Florida, Escambia,22
+20200328,Florida, Sumter,29
+20200328,Florida, Walton,13
+20200328,Florida, Brevard,16
+20200328,Florida, Citrus,11
+20200328,Florida, Leon,13
+20200328,Florida, St. Lucie,14
+20200328,Florida, Hernando,10
+20200328,Florida, Baker,7
+20200328,Florida, Flagler,11
+20200328,Florida, Highlands,5
+20200328,Florida, Marion,8
+20200328,Florida, Martin,16
+20200328,Florida, Santa Rosa,11
+20200328,Florida, Charlotte,5
+20200328,Florida, Columbia,3
+20200328,Florida, Monroe,16
+20200328,Florida, Putnam,12
+20200328,Florida, Bay,3
+20200328,Florida, Bradford,1
+20200328,Florida, Desoto,6
+20200328,Florida, Jackson,1
+20200328,Florida, Nassau,6
+20200328,Florida, Suwannee,1
+20200328,Florida, Washington,1

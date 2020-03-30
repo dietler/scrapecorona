@@ -1,0 +1,807 @@
+Date, State, County, Cases
+20200330, Illinois, Cook, 2
+20200330, Illinois, Lake, 241
+20200330, Illinois, DuPage, 202
+20200330, Illinois, Will, 127
+20200330, Illinois, Kane, 90
+20200330, Illinois, McHenry, 47
+20200330, Illinois, Kankakee, 27
+20200330, Illinois, St. Clair, 18
+20200330, Illinois, Champaign, 15
+20200330, Illinois, Kendall, 11
+20200330, Illinois, Madison, 10
+20200330, Illinois, McLean, 10
+20200330, Illinois, WInnebago, 9
+20200330, Illinois, Sangamon, 8
+20200330, Illinois, Unassigned, 8
+20200330, Illinois, Peoria, 7
+20200330, Illinois, Clinton, 5
+20200330, Illinois, DeKalb, 4
+20200330, Illinois, Rock Island, 4
+20200330, Illinois, LaSalle, 3
+20200330, Illinois, Monroe, 3
+20200330, Illinois, Morgan, 3
+20200330, Illinois, Tazewell, 3
+20200330, Illinois, Woodford, 3
+20200330, Illinois, Grundy, 2
+20200330, Illinois, Henry, 2
+20200330, Illinois, Iroquois, 2
+20200330, Illinois, Jackson, 2
+20200330, Illinois, Livingston, 2
+20200330, Illinois, Stephenson, 2
+20200330, Illinois, Whiteside, 2
+20200330, Illinois, Adams, 1
+20200330, Illinois, Bureau, 1
+20200330, Illinois, Caroll, 1
+20200330, Illinois, Christian, 1
+20200330, Illinois, Cumberland, 1
+20200330, Illinois, Douglas, 1
+20200330, Illinois, Fayette, 1
+20200330, Illinois, Franklin, 1
+20200330, Illinois, Jo Daviess, 1
+20200330, Illinois, Macon, 1
+20200330, Illinois, Marshall, 1
+20200330, Illinois, Washington, 1
+20200330, Illinois, WIlliamson, 1
+20200330, New Jersey, Bergen, 2
+20200330, New Jersey, Essex, 1
+20200330, New Jersey, Hudson, 974
+20200330, New Jersey, Middlesex, 938
+20200330, New Jersey, Union, 896
+20200330, New Jersey, Monmouth, 870
+20200330, New Jersey, Passaic, 831
+20200330, New Jersey, Ocean, 759
+20200330, New Jersey, Morris, 566
+20200330, New Jersey, Somerset, 295
+20200330, New Jersey, Mercer, 202
+20200330, New Jersey, Camden, 163
+20200330, New Jersey, Burlington, 142
+20200330, New Jersey, Sussex, 93
+20200330, New Jersey, Gloucester, 72
+20200330, New Jersey, Hunterdon, 66
+20200330, New Jersey, Warren, 56
+20200330, New Jersey, Atlantic, 24
+20200330, New Jersey, Cumberland, 11
+20200330, New Jersey, Cape May, 9
+20200330, New Jersey, Salem, 3
+20200330, Idaho, Ada County, 113
+20200330, Idaho, Blaine County, 115
+20200330, Idaho, Teton County, 2
+20200330, Idaho, Twins Falls County, 3
+20200330, Idaho, Madison County, 2
+20200330, Idaho, Kootenai County, 13
+20200330, Idaho, Canyon County, 40
+20200330, Idaho, Bingham County, 1
+20200330, Idaho, Valley County, 1
+20200330, Idaho, Cassia County, 1
+20200330, Idaho, Bannock County, 3
+20200330, Idaho, Idaho County, 1
+20200330, Idaho, Nez Perce County, 4
+20200330, Idaho, Payette County, 1
+20200330, Idaho, Fremont County, 1
+20200330, Idaho, Jefferson County, 2
+20200330, Idaho, Custer County, 1
+20200330, Idaho, Lincoln County, 1
+20200330, Idaho, Bonneville County, 1
+20200330, Idaho, Gem County, 3
+20200330, Idaho, Owyhee County, 1
+20200330, Hawaii, O'ahu and other small islands in Honolulu County, 116
+20200330, Hawaii, Maui, 20
+20200330, Hawaii, Hawai'i, 12
+20200330, Hawaii, Kauai, 12
+20200330, Hawaii, Unknown or Hawaii residents diagnosed out-of-state, 15
+20200330, North Dakota, Burleigh, 25
+20200330, North Dakota, Cass, 11
+20200330, North Dakota, Dunn, 1
+20200330, North Dakota, Foster, 1
+20200330, North Dakota, McHenry, 1
+20200330, North Dakota, McIntosh, 1
+20200330, North Dakota, Morton, 11
+20200330, North Dakota, Pierce, 2
+20200330, North Dakota, Ramsey, 3
+20200330, North Dakota, Start, 7
+20200330, North Dakota, Walsh, 1
+20200330, North Dakota, Ward, 4
+20200330, Oklahoma, Adair, 3
+20200330, Oklahoma, Bryan, 1
+20200330, Oklahoma, Caddo, 1
+20200330, Oklahoma, Canadian, 11
+20200330, Oklahoma, Carter, 1
+20200330, Oklahoma, Cherokee, 1
+20200330, Oklahoma, Chocotaw, 1
+20200330, Oklahoma, Cleveland, 39
+20200330, Oklahoma, Comanche, 6
+20200330, Oklahoma, Craig, 1
+20200330, Oklahoma, Creek, 14
+20200330, Oklahoma, Custer, 3
+20200330, Oklahoma, Delaware, 2
+20200330, Oklahoma, Garvin, 2
+20200330, Oklahoma, Grady, 2
+20200330, Oklahoma, Jackson, 1
+20200330, Oklahoma, Kay, 17
+20200330, Oklahoma, Latimer, 1
+20200330, Oklahoma, Lincoln, 3
+20200330, Oklahoma, Logan, 3
+20200330, Oklahoma, Mayes, 2
+20200330, Oklahoma, McClain, 2
+20200330, Oklahoma, Muskogee, 5
+20200330, Oklahoma, Noble, 3
+20200330, Oklahoma, Oklahoma, 94
+20200330, Oklahoma, Okmulgee, 2
+20200330, Oklahoma, Osage, 5
+20200330, Oklahoma, Ottawa, 1
+20200330, Oklahoma, Pawnee, 14
+20200330, Oklahoma, Payne, 7
+20200330, Oklahoma, Pittsburgh, 2
+20200330, Oklahoma, Pontotoc, 2
+20200330, Oklahoma, Pottawatomie, 2
+20200330, Oklahoma, Sequoyah, 1
+20200330, Oklahoma, Stephens, 1
+20200330, Oklahoma, Tulsa, 49
+20200330, Oklahoma, Wagoner, 8
+20200330, Oklahoma, Washington, 9
+20200330, New Hampshire, Rockingham, 100
+20200330, New Hampshire, Hillsborough, 69
+20200330, New Hampshire, Grafton, 29
+20200330, New Hampshire, Merrimack, 18
+20200330, New Hampshire, Strafford, 17
+20200330, New Hampshire, Carroll, 10
+20200330, New Hampshire, Belknap, 9
+20200330, New Hampshire, Cheshire, 3
+20200330, New Hampshire, Sullivan, 3
+20200330, Montana, Gallatin, 67
+20200330, Montana, Yellowstone, 26
+20200330, Montana, Missoula, 12
+20200330, Montana, Silver Bow, 9
+20200330, Montana, Flathead, 9
+20200330, Montana, Cascade, 7
+20200330, Montana, Lewis and Clark, 11
+20200330, Montana, Broadwater, 3
+20200330, Montana, Toole, 6
+20200330, Montana, Madison, 4
+20200330, Montana, Jefferson, 2
+20200330, Montana, Roosevelt, 1
+20200330, Montana, Park, 2
+20200330, Montana, Deer Lodge, 2
+20200330, Montana, Meagher, 1
+20200330, Montana, Ravalli, 1
+20200330, Montana, Hill, 1
+20200330, Montana, Lincoln, 4
+20200330, Montana, Lake, 3
+20200330, Utah, March, 29
+20200330, Texas, Harris County, 445
+20200330, Texas, Dallas County, 439
+20200330, Texas, Travis County, 179
+20200330, Texas, Denton County, 148
+20200330, Texas, Bexar County, 140
+20200330, Texas, Tarrant County, 139
+20200330, Texas, Collin County, 128
+20200330, Texas, Fort Bend County, 101
+20200330, Texas, Montgomery County, 64
+20200330, Texas, Brazoria County, 61
+20200330, Texas, Galveston County, 49
+20200330, Texas, Lubbock County, 41
+20200330, Texas, Brazos County, 40
+20200330, Texas, Williamson County, 37
+20200330, Texas, McLennan County, 36
+20200330, Texas, El Paso County, 35
+20200330, Texas, Smith County, 30
+20200330, Texas, Bell County, 28
+20200330, Texas, Hidalgo County, 27
+20200330, Texas, Wichita County, 26
+20200330, Texas, Webb County, 25
+20200330, Texas, Nueces County, 21
+20200330, Texas, Cameron County, 20
+20200330, Texas, Jefferson County, 16
+20200330, Texas, Ellis County, 13
+20200330, Texas, Hays County, 13
+20200330, Texas, Matagorda County, 12
+20200330, Texas, Midland County, 11
+20200330, Texas, Guadalupe County, 10
+20200330, Texas, Comal County, 9
+20200330, Texas, Hardin County, 9
+20200330, Texas, Castro County, 8
+20200330, Texas, Johnson County, 8
+20200330, Texas, Hockley County, 7
+20200330, Texas, Kendall County, 7
+20200330, Texas, Taylor County, 7
+20200330, Texas, Wharton County, 6
+20200330, Texas, Bastrop County, 5
+20200330, Texas, Val Verde County, 5
+20200330, Texas, Washington County, 5
+20200330, Texas, Gregg County, 4
+20200330, Texas, Parker County, 4
+20200330, Texas, Potter County, 4
+20200330, Texas, Rockwall County, 4
+20200330, Texas, Angelina County, 3
+20200330, Texas, Bowie County, 3
+20200330, Texas, Brown County, 3
+20200330, Texas, Calhoun County, 3
+20200330, Texas, Chambers County, 3
+20200330, Texas, De Witt County, 3
+20200330, Texas, Eastland County, 3
+20200330, Texas, Grayson County, 3
+20200330, Texas, Lamar County, 3
+20200330, Texas, Medina County, 3
+20200330, Texas, Randall County, 3
+20200330, Texas, Rusk County, 3
+20200330, Texas, Terry County, 3
+20200330, Texas, Tom Green County, 3
+20200330, Texas, Victoria County, 3
+20200330, Texas, Walker County, 3
+20200330, Texas, Waller County, 3
+20200330, Texas, Atascosa County, 2
+20200330, Texas, Austin County, 2
+20200330, Texas, Cass County, 2
+20200330, Texas, Deaf Smith County, 2
+20200330, Texas, Grimes County, 2
+20200330, Texas, Hood County, 2
+20200330, Texas, Karnes County, 2
+20200330, Texas, Kaufman County, 2
+20200330, Texas, Liberty County, 2
+20200330, Texas, Llano County, 2
+20200330, Texas, Milam County, 2
+20200330, Texas, Nacogdoches County, 2
+20200330, Texas, Oldham County, 2
+20200330, Texas, Robertson County, 2
+20200330, Texas, Starr County, 2
+20200330, Texas, Uvalde County, 2
+20200330, Texas, Willacy County, 2
+20200330, Texas, Wilson County, 2
+20200330, Texas, Blanco County, 1
+20200330, Texas, Burleson County, 1
+20200330, Texas, Burnet County, 1
+20200330, Texas, Caldwell County, 1
+20200330, Texas, Cherokee County, 1
+20200330, Texas, Coryell County, 1
+20200330, Texas, Crane County, 1
+20200330, Texas, Dawson County, 1
+20200330, Texas, Ector County, 1
+20200330, Texas, Erath County, 1
+20200330, Texas, Falls County, 1
+20200330, Texas, Fannin County, 1
+20200330, Texas, Fayette County, 1
+20200330, Texas, Franklin County, 1
+20200330, Texas, Gaines County, 1
+20200330, Texas, Hale County, 1
+20200330, Texas, Harrison County, 1
+20200330, Texas, Hopkins County, 1
+20200330, Texas, Hunt County, 1
+20200330, Texas, Jackson County, 1
+20200330, Texas, Kleberg County, 1
+20200330, Texas, Lamb County, 1
+20200330, Texas, Lavaca County, 1
+20200330, Texas, Limestone County, 1
+20200330, Texas, Lynn County, 1
+20200330, Texas, Martin County, 1
+20200330, Texas, Maverick County, 1
+20200330, Texas, Montague County, 1
+20200330, Texas, Morris County, 1
+20200330, Texas, Navarro County, 1
+20200330, Texas, Orange County, 1
+20200330, Texas, Polk County, 1
+20200330, Texas, San Jacinto County, 1
+20200330, Texas, San Patricio County, 1
+20200330, Texas, Shelby County, 1
+20200330, Texas, Swisher County, 1
+20200330, Texas, Upshur County, 1
+20200330, Texas, Van Zandt County, 1
+20200330, Texas, Young County, 1
+20200330, Colorado, Adams, 110
+20200330, Colorado, Alamosa, 1
+20200330, Colorado, Arapahoe, 241
+20200330, Colorado, Baca, 1
+20200330, Colorado, Boulder, 90
+20200330, Colorado, Broomfield, 17
+20200330, Colorado, Chaffee, 15
+20200330, Colorado, Clear Creek, 3
+20200330, Colorado, Costilla, 1
+20200330, Colorado, Crowley, 1
+20200330, Colorado, Delta, 1
+20200330, Colorado, Denver, 408
+20200330, Colorado, Douglas, 102
+20200330, Colorado, Eagle, 187
+20200330, Colorado, El Paso, 214
+20200330, Colorado, Elbert, 3
+20200330, Colorado, Fremont, 1
+20200330, Colorado, Garfield, 25
+20200330, Colorado, Grand, 2
+20200330, Colorado, Gunnison, 79
+20200330, Colorado, Hinsdale, 1
+20200330, Colorado, Huerfano, 1
+20200330, Colorado, Jefferson, 213
+20200330, Colorado, Kit Carson, 1
+20200330, Colorado, La Plata, 21
+20200330, Colorado, Larimer, 84
+20200330, Colorado, Lincoln, 1
+20200330, Colorado, Logan, 5
+20200330, Colorado, Mesa, 11
+20200330, Colorado, Mineral, 1
+20200330, Colorado, Moffat, 2
+20200330, Colorado, Montezuma, 1
+20200330, Colorado, Montrose, 8
+20200330, Colorado, Morgan, 5
+20200330, Colorado, Otero, 3
+20200330, Colorado, Park, 3
+20200330, Colorado, Pitkin, 27
+20200330, Colorado, Pueblo, 10
+20200330, Colorado, Rio Grande, 3
+20200330, Colorado, Routt, 16
+20200330, Colorado, San Miguel, 1
+20200330, Colorado, Summit, 11
+20200330, Colorado, Teller, 7
+20200330, Colorado, Washington, 1
+20200330, Colorado, Weld, 180
+20200330, Colorado, Yuma, 2
+20200330, Colorado, Unknown, 186
+20200330, Oregon, Benton, 8
+20200330, Oregon, Clackamas, 39
+20200330, Oregon, Clatsop, 3
+20200330, Oregon, Columbia, 1
+20200330, Oregon, Deschutes, 23
+20200330, Oregon, Douglas, 4
+20200330, Oregon, Grant, 1
+20200330, Oregon, Hood River, 2
+20200330, Oregon, Jackson, 19
+20200330, Oregon, Josephine, 6
+20200330, Oregon, Klamath, 4
+20200330, Oregon, Lane, 10
+20200330, Oregon, Lincoln, 1
+20200330, Oregon, Linn, 36
+20200330, Oregon, Marion, 109
+20200330, Oregon, Morrow, 1
+20200330, Oregon, Multnomah, 91
+20200330, Oregon, Polk, 13
+20200330, Oregon, Umatilla, 4
+20200330, Oregon, Union, 1
+20200330, Oregon, Wasco, 3
+20200330, Oregon, Washington, 154
+20200330, Oregon, Yamhill, 13
+20200330, Florida, Miami-Dade , 1
+20200330, Florida, Broward, 838
+20200330, Florida, Palm Beach, 333
+20200330, Florida, Hillsborough, 218
+20200330, Florida, Duval, 125
+20200330, Florida, Orange , 246
+20200330, Florida, Pinellas, 113
+20200330, Florida, Collier, 95
+20200330, Florida, Alachua, 71
+20200330, Florida, Lee, 124
+20200330, Florida, Osceola, 83
+20200330, Florida, Sarasota, 50
+20200330, Florida, Seminole, 76
+20200330, Florida, St. Johns, 50
+20200330, Florida, Volusia, 47
+20200330, Florida, Manatee, 33
+20200330, Florida, Pasco, 34
+20200330, Florida, Lake, 38
+20200330, Florida, Okaloosa, 31
+20200330, Florida, Polk, 39
+20200330, Florida, Indian River, 17
+20200330, Florida, Clay, 30
+20200330, Florida, Escambia, 30
+20200330, Florida, Sumter, 43
+20200330, Florida, Walton, 15
+20200330, Florida, Brevard, 28
+20200330, Florida, Citrus, 15
+20200330, Florida, Leon, 18
+20200330, Florida, St. Lucie, 23
+20200330, Florida, Hernando, 14
+20200330, Florida, Baker, 7
+20200330, Florida, Flagler, 13
+20200330, Florida, Highlands, 10
+20200330, Florida, Marion, 20
+20200330, Florida, Martin, 26
+20200330, Florida, Santa Rosa, 20
+20200330, Florida, Charlotte, 16
+20200330, Florida, Columbia, 3
+20200330, Florida, Monroe, 22
+20200330, Florida, Putnam, 12
+20200330, Florida, Bay, 6
+20200330, Florida, Bradford, 1
+20200330, Florida, Desoto, 7
+20200330, Florida, Jackson, 1
+20200330, Florida, Nassau, 7
+20200330, Florida, Suwannee, 1
+20200330, Florida, Washington, 1
+20200330, Florida, Levy, 2
+20200330, Florida, Gadsden, 1
+20200330, Florida, Hendry, 1
+20200330, Minnesota, Anoka, 10
+20200330, Minnesota, Beltrami, 1
+20200330, Minnesota, Benton, 1
+20200330, Minnesota, Big Stone, 1
+20200330, Minnesota, Blue Earth, 7
+20200330, Minnesota, Carver, 8
+20200330, Minnesota, Cass, 1
+20200330, Minnesota, Chisago, 2
+20200330, Minnesota, Clay, 4
+20200330, Minnesota, Dakota, 28
+20200330, Minnesota, Dodge, 5
+20200330, Minnesota, Faribault, 1
+20200330, Minnesota, Fillmore, 3
+20200330, Minnesota, Hennepin, 141
+20200330, Minnesota, Jackson, 1
+20200330, Minnesota, Kandiyohi, 1
+20200330, Minnesota, Lac qui Parle, 1
+20200330, Minnesota, Le Sueur, 10
+20200330, Minnesota, Lincoln, 1
+20200330, Minnesota, Mahnomen, 1
+20200330, Minnesota, Martin, 18
+20200330, Minnesota, Mower, 10
+20200330, Minnesota, Nicollet, 3
+20200330, Minnesota, Olmsted, 34
+20200330, Minnesota, Ramsey, 34
+20200330, Minnesota, Renville, 1
+20200330, Minnesota, Rie, 2
+20200330, Minnesota, Scott, 7
+20200330, Minnesota, Sherburne, 3
+20200330, Minnesota, Sibley, 1
+20200330, Minnesota, St. Louis, 5
+20200330, Minnesota, Stearns, 5
+20200330, Minnesota, Steele, 5
+20200330, Minnesota, Wabasha, 4
+20200330, Minnesota, Waseca, 3
+20200330, Minnesota, Washington, 22
+20200330, Minnesota, Wilkin, 1
+20200330, Minnesota, Winona, 4
+20200330, Minnesota, Wright, 5
+20200330, Maine, Androscoggin, 6
+20200330, Maine, Cumberland, 92
+20200330, Maine, Franklin, 1
+20200330, Maine, Kennebec, 6
+20200330, Maine, Knox, 2
+20200330, Maine, Lincoln, 5
+20200330, Maine, Oxford, 8
+20200330, Maine, Penobscot, 6
+20200330, Maine, Sagadahoc, 4
+20200330, Maine, Waldo, 2
+20200330, Maine, York, 33
+20200330, Maine, Unknown, 3
+20200330, Nebraska, Douglas, 60
+20200330, Nebraska, Sarpy, 11
+20200330, Nebraska, Washington, 8
+20200330, Nebraska, Hall, 6
+20200330, Nebraska, Buffalo, 5
+20200330, Nebraska, Lancaster, 5
+20200330, Nebraska, Lincoln, 5
+20200330, Nebraska, Adams, 3
+20200330, Nebraska, Dodge, 3
+20200330, Nebraska, Cass, 2
+20200330, Nebraska, Knox, 2
+20200330, Nebraska, Saunders, 2
+20200330, Nebraska, Dawson, 1
+20200330, Nebraska, Gage, 1
+20200330, Nebraska, Gosper, 1
+20200330, Nebraska, Kearny, 1
+20200330, Nebraska, Madison, 1
+20200330, Nebraska, Nemaha, 1
+20200330, Nebraska, Platte, 1
+20200330, Nebraska, Scotts, 1
+20200330, Pennsylvania, Adams, 7
+20200330, Pennsylvania, Allegheny, 133
+20200330, Pennsylvania, Armstrong, 1
+20200330, Pennsylvania, Beaver, 13
+20200330, Pennsylvania, Berks, 36
+20200330, Pennsylvania, Blair, 1
+20200330, Pennsylvania, Bradford, 2
+20200330, Pennsylvania, Bucks, 107
+20200330, Pennsylvania, Butler, 19
+20200330, Pennsylvania, Cambria, 1
+20200330, Pennsylvania, Carbon, 2
+20200330, Pennsylvania, Centre, 9
+20200330, Pennsylvania, Chester, 84
+20200330, Pennsylvania, Clearfield, 2
+20200330, Pennsylvania, Columbia, 3
+20200330, Pennsylvania, Cumberland, 15
+20200330, Pennsylvania, Dauphin, 13
+20200330, Pennsylvania, Delaware, 156
+20200330, Pennsylvania, Erie, 4
+20200330, Pennsylvania, Fayette, 8
+20200330, Pennsylvania, Franklin, 5
+20200330, Pennsylvania, Greene, 3
+20200330, Pennsylvania, Indiana, 1
+20200330, Pennsylvania, Juniata, 1
+20200330, Pennsylvania, Lackawanna, 28
+20200330, Pennsylvania, Lancaster, 21
+20200330, Pennsylvania, Lawrence, 1
+20200330, Pennsylvania, Lebanon, 4
+20200330, Pennsylvania, Lehigh, 63
+20200330, Pennsylvania, Luzerne, 36
+20200330, Pennsylvania, Lycoming, 1
+20200330, Pennsylvania, Mercer, 3
+20200330, Pennsylvania, Monroe, 67
+20200330, Pennsylvania, Montgomery, 282
+20200330, Pennsylvania, Montour, 4
+20200330, Pennsylvania, Northampton, 56
+20200330, Pennsylvania, Philadelphia, 402
+20200330, Pennsylvania, Pike, 15
+20200330, Pennsylvania, Potter, 1
+20200330, Pennsylvania, Schuylkill, 9
+20200330, Pennsylvania, Somerset, 2
+20200330, Pennsylvania, Susquehanna, 1
+20200330, Pennsylvania, Warren, 1
+20200330, Pennsylvania, Washington, 12
+20200330, Pennsylvania, Wayne, 6
+20200330, Pennsylvania, Westmoreland, 24
+20200330, Pennsylvania, York, 21
+20200330, Georgia, Fulton, 407
+20200330, Georgia, Dekalb, 272
+20200330, Georgia, Dougherty, 239
+20200330, Georgia, Cobb, 222
+20200330, Georgia, Gwinnett, 143
+20200330, Georgia, Bartow, 119
+20200330, Georgia, Carroll , 64
+20200330, Georgia, Clayton, 59
+20200330, Georgia, Cherokee, 56
+20200330, Georgia, Henry, 55
+20200330, Georgia, Lee, 43
+20200330, Georgia, Douglas, 37
+20200330, Georgia, Clarke, 35
+20200330, Georgia, Hall, 32
+20200330, Georgia, Floyd, 27
+20200330, Georgia, Fayette, 26
+20200330, Georgia, Forsyth, 25
+20200330, Georgia, Paulding, 23
+20200330, Georgia, Coweta, 22
+20200330, Georgia, Lowndes, 20
+20200330, Georgia, Rockdale, 18
+20200330, Georgia, Newton, 17
+20200330, Georgia, Early, 16
+20200330, Georgia, Chatham, 15
+20200330, Georgia, Houston, 15
+20200330, Georgia, Mitchell, 15
+20200330, Georgia, Sumter , 15
+20200330, Georgia, Gordon, 14
+20200330, Georgia, Bibb, 13
+20200330, Georgia, Tift, 13
+20200330, Georgia, Columbia, 12
+20200330, Georgia, Richmond, 12
+20200330, Georgia, Spalding, 12
+20200330, Georgia, Oconee, 11
+20200330, Georgia, Polk, 10
+20200330, Georgia, Terrell, 10
+20200330, Georgia, Worth, 10
+20200330, Georgia, Laurens, 9
+20200330, Georgia, Troup, 9
+20200330, Georgia, Coffee, 8
+20200330, Georgia, Glynn, 8
+20200330, Georgia, Muscogee, 8
+20200330, Georgia, Whitfield, 8
+20200330, Georgia, Barrow , 7
+20200330, Georgia, Bryan, 7
+20200330, Georgia, Thomas, 7
+20200330, Georgia, Colquitt, 6
+20200330, Georgia, Crisp, 6
+20200330, Georgia, Peach, 6
+20200330, Georgia, Butts, 5
+20200330, Georgia, Meriwether, 5
+20200330, Georgia, Pickens, 5
+20200330, Georgia, Upson, 5
+20200330, Georgia, Walton, 5
+20200330, Georgia, Ware, 5
+20200330, Georgia, Burke, 4
+20200330, Georgia, Decatur, 4
+20200330, Georgia, Effingham, 4
+20200330, Georgia, Lumpkin, 4
+20200330, Georgia, Miller, 4
+20200330, Georgia, Calhoun, 3
+20200330, Georgia, Catoosa, 3
+20200330, Georgia, Fannin , 3
+20200330, Georgia, Irwin, 3
+20200330, Georgia, Liberty, 3
+20200330, Georgia, Lincoln , 3
+20200330, Georgia, Madison, 3
+20200330, Georgia, Monroe, 3
+20200330, Georgia, Murray, 3
+20200330, Georgia, Pulaski , 3
+20200330, Georgia, Randolph, 3
+20200330, Georgia, Seminole, 3
+20200330, Georgia, Stephens, 3
+20200330, Georgia, Baldwin, 2
+20200330, Georgia, Ben Hill, 2
+20200330, Georgia, Camden, 2
+20200330, Georgia, Dawson, 2
+20200330, Georgia, Franklin, 2
+20200330, Georgia, Haralson, 2
+20200330, Georgia, Harris, 2
+20200330, Georgia, Jackson, 2
+20200330, Georgia, Jasper, 2
+20200330, Georgia, Jones, 2
+20200330, Georgia, Lamar, 2
+20200330, Georgia, Pierce, 2
+20200330, Georgia, Pike, 2
+20200330, Georgia, Tattnall , 2
+20200330, Georgia, Turner, 2
+20200330, Georgia, Twiggs, 2
+20200330, Georgia, Washington, 2
+20200330, Georgia, Bacon, 1
+20200330, Georgia, Baker, 1
+20200330, Georgia, Brooks, 1
+20200330, Georgia, Bulloch, 1
+20200330, Georgia, Candler, 1
+20200330, Georgia, Charlton, 1
+20200330, Georgia, Chattahoochee, 1
+20200330, Georgia, Chattooga, 1
+20200330, Georgia, Clinch, 1
+20200330, Georgia, Dodge, 1
+20200330, Georgia, Greene, 1
+20200330, Georgia, Hart, 1
+20200330, Georgia, Heard, 1
+20200330, Georgia, Jenkins, 1
+20200330, Georgia, Long, 1
+20200330, Georgia, Macon, 1
+20200330, Georgia, Mcduffie, 1
+20200330, Georgia, Morgan, 1
+20200330, Georgia, Taylor, 1
+20200330, Georgia, Toombs, 1
+20200330, Georgia, Wheeler, 1
+20200330, Georgia, White, 1
+20200330, Georgia, Wilkes, 1
+20200330, Georgia, Unknown, 262
+20200330, Massachusetts, Barnstable, 100
+20200330, Massachusetts, Berkshire, 105
+20200330, Massachusetts, Bristol, 129
+20200330, Massachusetts, Dukes and Nantucket, 4
+20200330, Massachusetts, Essex, 350
+20200330, Massachusetts, Franklin, 24
+20200330, Massachusetts, Hampden, 90
+20200330, Massachusetts, Hampshire, 20
+20200330, Massachusetts, Middlesex, 685
+20200330, Massachusetts, Nantucket, 0
+20200330, Massachusetts, Norfolk, 393
+20200330, Massachusetts, Plymouth, 187
+20200330, Massachusetts, Suffolk, 631
+20200330, Massachusetts, Worcester, 219
+20200330, Massachusetts, Unknown, 303
+20200330, Tennessee, Anderson, 6
+20200330, Tennessee, Bedford, 1
+20200330, Tennessee, Benton, 3
+20200330, Tennessee, Bledsoe, 2
+20200330, Tennessee, Blount, 9
+20200330, Tennessee, Bradley, 8
+20200330, Tennessee, Campbell, 4
+20200330, Tennessee, Cannon, 2
+20200330, Tennessee, Carroll, 5
+20200330, Tennessee, Carter, 1
+20200330, Tennessee, Cheatham, 8
+20200330, Tennessee, Chester, 2
+20200330, Tennessee, Claiborne, 2
+20200330, Tennessee, Cocke County, 1
+20200330, Tennessee, Coffee, 1
+20200330, Tennessee, Cumberland, 9
+20200330, Tennessee, Davidson, 260
+20200330, Tennessee, Decatur, 1
+20200330, Tennessee, Dekalb, 3
+20200330, Tennessee, Dickson, 11
+20200330, Tennessee, Dyer, 3
+20200330, Tennessee, Fayette, 10
+20200330, Tennessee, Franklin, 6
+20200330, Tennessee, Gibson, 3
+20200330, Tennessee, Greene, 9
+20200330, Tennessee, Grundy, 2
+20200330, Tennessee, Hamblen, 2
+20200330, Tennessee, Hamilton, 35
+20200330, Tennessee, Hardeman, 1
+20200330, Tennessee, Hardin, 1
+20200330, Tennessee, Hawkins, 2
+20200330, Tennessee, Haywood, 2
+20200330, Tennessee, Henry, 1
+20200330, Tennessee, Houston, 2
+20200330, Tennessee, Jefferson, 5
+20200330, Tennessee, Johnson, 2
+20200330, Tennessee, Knox, 38
+20200330, Tennessee, Lewis, 2
+20200330, Tennessee, Lincoln, 1
+20200330, Tennessee, Loudon, 8
+20200330, Tennessee, Macon, 3
+20200330, Tennessee, Madison, 3
+20200330, Tennessee, Marion, 5
+20200330, Tennessee, Maury, 8
+20200330, Tennessee, McMinn, 3
+20200330, Tennessee, McNairy, 1
+20200330, Tennessee, Meigs, 1
+20200330, Tennessee, Monroe, 3
+20200330, Tennessee, Montgomery, 13
+20200330, Tennessee, Morgan, 1
+20200330, Tennessee, Obion, 1
+20200330, Tennessee, Overton, 2
+20200330, Tennessee, Perry, 2
+20200330, Tennessee, Putnam, 17
+20200330, Tennessee, Roane, 2
+20200330, Tennessee, Robertson, 25
+20200330, Tennessee, Rutherford, 48
+20200330, Tennessee, Scott, 2
+20200330, Tennessee, Sevier, 6
+20200330, Tennessee, Shelby, 313
+20200330, Tennessee, Smith, 1
+20200330, Tennessee, Sullivan, 8
+20200330, Tennessee, Sumner, 93
+20200330, Tennessee, Tipton, 15
+20200330, Tennessee, Trousdale, 1
+20200330, Tennessee, Unicoi, 1
+20200330, Tennessee, Union, 1
+20200330, Tennessee, Washington, 14
+20200330, Tennessee, Weakly, 1
+20200330, Tennessee, White, 1
+20200330, Tennessee, Williamson, 101
+20200330, Tennessee, Wilson, 27
+20200330, Tennessee, Residents of other states or countries, 150
+20200330, Tennessee, Unknown, 190
+20200330, Nevada, Clark, 528
+20200330, Nevada, Washoe, 107
+20200330, Nevada, Carson City, 5
+20200330, Nevada, Douglas, 5
+20200330, Nevada, Elko, 3
+20200330, Nevada, Humboldt, 1
+20200330, Nevada, Lyon, 1
+20200330, Nevada, Nye, 1
+20200330, Delaware, New Castle, 141
+20200330, Delaware, Kent, 25
+20200330, Delaware, Sussex, 66
+20200330, Ohio, Allen, 4
+20200330, Ohio, Ashland, 2
+20200330, Ohio, Athens, 3
+20200330, Ohio, Ashtabula, 6
+20200330, Ohio, Auglaize, 2
+20200330, Ohio, Belmont, 8
+20200330, Ohio, Butler, 27
+20200330, Ohio, Carroll, 4
+20200330, Ohio, Champaign, 2
+20200330, Ohio, Clark, 7
+20200330, Ohio, Clermont, 8
+20200330, Ohio, Clinton, 3
+20200330, Ohio, Columbiana, 11
+20200330, Ohio, Coshocton, 4
+20200330, Ohio, Crawford, 2
+20200330, Ohio, Cuyahoga, 440
+20200330, Ohio, Darke, 3
+20200330, Ohio, Defiance, 5
+20200330, Ohio, Delaware, 31
+20200330, Ohio, Erie, 5
+20200330, Ohio, Fairfield, 14
+20200330, Ohio, Fayette, 1
+20200330, Ohio, Franklin, 247
+20200330, Ohio, Fulton, 2
+20200330, Ohio, Gallia, 1
+20200330, Ohio, Geauga, 17
+20200330, Ohio, Greene, 3
+20200330, Ohio, Hamilton, 85
+20200330, Ohio, Hancock, 3
+20200330, Ohio, Highland, 1
+20200330, Ohio, Huron, 3
+20200330, Ohio, Jefferson, 5
+20200330, Ohio, Knox, 3
+20200330, Ohio, Lake, 35
+20200330, Ohio, Lawrence, 1
+20200330, Ohio, Licking, 15
+20200330, Ohio, Logan, 3
+20200330, Ohio, Lorain, 74
+20200330, Ohio, Lucas, 94
+20200330, Ohio, Madison, 4
+20200330, Ohio, Mahoning, 84
+20200330, Ohio, Marion, 6
+20200330, Ohio, Medina, 45
+20200330, Ohio, Mercer, 2
+20200330, Ohio, Miami, 43
+20200330, Ohio, Montgomery, 25
+20200330, Ohio, Muskingum, 2
+20200330, Ohio, Ottawa, 1
+20200330, Ohio, Pickaway, 4
+20200330, Ohio, Pike, 1
+20200330, Ohio, Portage, 27
+20200330, Ohio, Richland, 5
+20200330, Ohio, Sandusky, 3
+20200330, Ohio, Seneca, 1
+20200330, Ohio, Shelby, 3
+20200330, Ohio, Stark, 29
+20200330, Ohio, Summit, 99
+20200330, Ohio, Trumbull, 36
+20200330, Ohio, Tuscarawas, 5
+20200330, Ohio, Union, 3
+20200330, Ohio, Van Wert, 1
+20200330, Ohio, Warren, 20
+20200330, Ohio, Washington, 3
+20200330, Ohio, Wayne, 4
+20200330, Ohio, Wood, 12
+20200330, Ohio, Wyandot, 1
